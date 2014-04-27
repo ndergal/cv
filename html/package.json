@@ -1,0 +1,10 @@
+{
+  "name": "curriculum_vitae",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-express": "^1.2.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-open": "^0.2.3"
+  }
+}
