@@ -1,3 +1,4 @@
+*.bcf
 *.aux
 *.glo
 *.idx
@@ -20,4 +21,6 @@
 *.mtc
 *.mtc1
 *.out
+*.pdf
+*.run.xml
 *.synctex.gz
