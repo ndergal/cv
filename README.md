@@ -4,13 +4,25 @@ This repository contains my curriculum vitae.
 
 No more, no less.
 
+# Why ?
+
+As a software engineer, I wanted my CV to follow my professional practices :
+
+* Source text based to easily use SCMs, merging, diffing, history
+* Publicly available, shareable, editable
+* HTML W3C compliant but also PDF format to ease reading
+
+
+I also wanted to (re)-learn some basics of the front [(and back)](http://www.commitstrip.com/en/2015/09/08/how-to-mess-with-your-project-manager/?setLocale=1) end development, using a task runner, livereload, and other facilities.
+
+
 # What ?
 
 * Content of the CV is in
 [Markdown format][1].
 * HTML and PDF rendered versions can also be found here :
-  - HTML version
-  - PDF version
+  - [HTML version](./cv.html)
+  - ~~PDF version~~ (not available yet)
 * Rendering is done  with
 [the useful Markdown2Resume tool][2].
 
