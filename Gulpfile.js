@@ -6,8 +6,18 @@ var listen_ip = '127.0.0.1';
 var listen_port = 4000;
 var notify_reload_listen_port = 35729;
 
+// markdown-resume settings
+var md2resume_bin = './node_modules/markdown-resume/bin/md2resume'
+var template = process.env.MD2R_TPL || "blockish"
+
 gulp.task('md2resume2html', shell.task([
-    './node_modules/markdown-resume/bin/md2resume html ./cv.md ./'
+    md2resume_bin + ' html --template ' +
+    template + ' ./cv.md ./'
+]));
+
+gulp.task('md2resume2pdf', shell.task([
+  md2resume_bin + ' pdf --template ' +
+  template + ' ./cv.md ./'
 ]));
 
 gulp.task('express', function() {
@@ -17,8 +27,6 @@ gulp.task('express', function() {
     app.use(express.static(__dirname));
     app.listen(listen_port, listen_ip);
 });
-
-
 
 gulp.task('watch', function() {
     gulp.watch('*.md', ['md2resume2html']);
@@ -44,6 +52,11 @@ function notifyLiveReload(event) {
 gulp.task('open', function(){
   gulp.src(__filename)
     .pipe(open({uri: 'http://' + listen_ip + ':' + listen_port + '/cv.html'}));
+});
+
+gulp.task('render',
+  ['md2resume2html','md2resume2pdf'],
+  function(){
 });
 
 gulp.task(
