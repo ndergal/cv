@@ -21,7 +21,6 @@
 *.mtc
 *.mtc1
 *.out
-*.pdf
 *.run.xml
 *.synctex.gz
 .DS_Store
