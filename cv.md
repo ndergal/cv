@@ -59,14 +59,10 @@ SwordGroup
     __2010__
     Integration of OpenScales and Geoserver, open-source softwares, inside IntelliGIS, a product based on Oracle/ESRI and written in Java.
 
-------
-
-### Scolarship {#scolarship}
-
-INSA de LYON
-  : *IT Generalist Bachelor of engineering*
+INSA de Lyon
+  : *IT Generalist Engineering Master*
     __2005-20010__
-    Graduated Engineering school with a bachelor of engineering,
+    Graduated Engineering school with a master of engineering,
     in IT generalist fields : software development, systems administration, project management, business intelligence and data processing.
 
 ------
