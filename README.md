@@ -22,7 +22,7 @@ I also wanted to (re)-learn some basics of the front [(and back)](http://www.com
 [Markdown format][1].
 * HTML and PDF rendered versions can also be found here :
   - [HTML version](./cv.html)
-  - ~~PDF version~~ (not available yet)
+  - [PDF version](./cv.pdf)
 * Rendering is done  with
 [the useful Markdown2Resume tool][2].
 

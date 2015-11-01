@@ -28,7 +28,7 @@ gulp.task('express', function() {
 });
 
 gulp.task('watch', function() {
-    gulp.watch('*.md', ['md2resume2html']);
+    gulp.watch('*.md', ['md2resume2html','md2resume2pdf']);
     gulp.watch('*.html', notifyLiveReload);
 });
 
@@ -47,11 +47,6 @@ function notifyLiveReload(event) {
     }
   });
 }
-
-gulp.task('render',
-  ['md2resume2html','md2resume2pdf'],
-  function(){
-});
 
 gulp.task(
     'default',
