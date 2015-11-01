@@ -13,7 +13,8 @@ As a software engineer, I wanted my CV to follow my professional practices :
 * HTML W3C compliant but also PDF format to ease reading
 
 
-I also wanted to (re)-learn some basics of the front [(and back)](http://www.commitstrip.com/en/2015/09/08/how-to-mess-with-your-project-manager/?setLocale=1) end development, using a task runner, livereload, and other facilities.
+I also wanted to (re)-learn some basics of the front [(and back)][8] end
+development, using a task runner, livereload, and other facilities.
 
 
 # What ?
@@ -97,3 +98,4 @@ if you make it appear with the same license.
 [5]: http://gulpjs.com
 [6]: https://docker.com
 [7]: https://docs.docker.com/compose/
+[8]: http://www.commitstrip.com/en/2015/09/08/how-to-mess-with-your-project-manager/?setLocale=1
