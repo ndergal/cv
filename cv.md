@@ -15,76 +15,125 @@ Software Engineer focused on "Human stack" as well as "Technical stacks".
 
 ------
 
-### Skills {#skills}
+### Work Experience {#workexperience}
 
-* Methodology and tooling to mind the gap between agility and stability
-  : Change often, break things before the production, make everyone happy and software valuable.
-
-* System administration
-  : Talk to Linux systems, automation tools, infrastructure paradigms, debug at night.
-
-* Software development
-  : Writing new things in Java, Javascript, Golang or Ruby. Testing and
-delivering at the right time.
-
-* Curious learner
-  : Reading Linux Kernel documentation ? Learn and apply a new tool ? Understand a business never known before ?
-
-* Communicating with people
-  : Make production people smiles at developers. Teach things and talk behind hundred of people.
-
-------
-
-### Experience {#experience}
-
-Atos Worldline (Brussels, Belgium)
-  : *Lead DevOps Engineer*
+Atos Worldline
+  : *Lead DevOps Engineer (Brussels, Belgium)*
     __2014-today__
       Half time working in Worldline's internal Forge, pushing new ways of working to solve problems : Github flows, continuous delivery, continuous learning, cloud paradigms, etc. <br/>
-      Half time deploying a global internal open-source organization to onboard Docker inside the company, leveraging training, production support, developer contribution, change (often) management
+      Half time deploying a global internal open-source organization to onboard Docker inside the company, leveraging training, production support, developer contribution, change (often) management <br />
+      Internal consultancy in firefighting projects to help before first production deliveries
 
-E.N.S.G. (Marne-la Vallée, Paris, France)
-  : *GIS Teacher*
-    __2014-today__
-      Teaching GIS basics to Master-2 students for a 50-hours grade. Covering basics of High Availability, Data managing, System architectures. Practical session around Geoserver to understand fault tolerance.
-
-E.P.S.I (Lyon and Grenoble, France)
-  : *High Availability Teacher*
-      Teaching basic concepts of High Availability to Master-1 students during a 20-hours grade, to 3 different groups. Practical sessions around basic fault tolerance.
-
-Atos Worldline (Lyon, France)
-  : *Software and DevOps Engineer*
+  : *Software and DevOps Engineer (Lyon, France)*
     __2011-2014__
       Operationally leading of a GIS platform for the French Geographical Institute. Project management of integration of new applications, maintaining in operational state, coordinating external companies, maintaining innovation state regarding tooling. <br/>
       Part time "Innovation Labs", studying on Virtualizing production to developers.
 
-  : *Platform Engineer*
+  : *Platform Engineer (Lyon, France)*
     __2010-2011__
       Maintaining in operational state a set of heterogenous platforms for French ministries, coordinating with production teams (internals and externals).
 
-SwordGroup (Lyon, France)
-  : *Software Engineer trainee*
-    __2010__
-    Integration of OpenScales and Geoserver, open-source softwares, inside IntelliGIS, a product based on Oracle/ESRI and written in Java.
+Teacher in Engineering Schools
+  : *E.N.S.G. (Marne-la Vallée, Paris, France)*
+    __2014-today__
+        Teaching GIS basics to Master-2 students for a 50-hours grade. Covering basics of High Availability, Data managing, System architectures. Practical session around Geoserver to understand fault tolerance.
 
-INSA de Lyon (France)
-  : *IT Generalist Engineering Master*
-    __2005-20010__
-    Graduated Engineering school with a master of engineering,
-    in IT generalist fields : software development, systems administration, project management, business intelligence and data processing.
+  : *E.P.S.I (Lyon and Grenoble, France)*
+    __2013-2014__
+      Teaching basic concepts of High Availability to Master-1 students during a 20-hours grade, to 3 different groups. Practical sessions around basic fault tolerance.
+
+SwordGroup
+  : *Software Engineer trainee (Lyon, France)*
+    __2010__
+    Integration of open-source softwares (OpenScales and Geoserver) inside IntelliGIS, a new product based on Oracle/ESRI and written in Java.
 
 ------
 
-### Others {#others}
+### Education {#education}
+Master's Degree of IT Engineering
+  : *INSA de Lyon (France)*
+    __2005-2010__
+    3 years studying common IT engineering : <br />
+    Covering software development, basics of machines architectures, project management, Linux commons, workgroups, business analysis, discrete mathematics,
+    sports and Economic intelligence. <br />
+    After 2 years of "common" Engineering : physics, chemistry, mechanic,
+    common mathematics, IT basics, manufacturing production, sports, humanities.
 
-Speaker experiences :
-  : DockerCon EU Barcelona 2015 - The Raspberry Challenge (EN)
-  : Mix-IT 2015 Lyon - Your devbox in Docker (FR)
-  : DockerCon EU Amsterdam 2015 - Docker in a big company (EN)
+Exchange student in IT Engineering
+  : *Pontificia Universidad de Valparaíso (Chile)*
+    __2009__
+    6 month of academic exchange in IT Engineering, studying Multi-Agents Systems,
+    J2ME & Android software development, Java J2EE architectures and NIDS administration.
 
-Misc. :
-  : Contributing in Docker Meetup in Lyon and Brussels
-  : Rock-climbing Teaching for more than 10 years (children, adults, competitors, disabled people)
+French Baccalauréat
+  : *St-Etienne (France)*
+    __2005__
+    Common sciences series, mathematics specialization. <br />
+    Cinematography and Rock-climibing options.
+    Graduated with "Very good" mention. <br />
+
+
+------
+<br />
+
+### Skills {#skills}
+
+Languages :
+  : *French : native*
+
+  : *English : full professional proficiency*
+    __865 TOEIC - English conferences speaker__
+
+  : *Spanish : limited working proficiency*
+    __6 months academic exchange at Valparaiso, Chile__
+
+Technical :
+  : *I know how to manage my sources with SCMs*
+    __SVN, Mercurial, Git__
+
+  : *I can write software in some languages*
+    __Java, Javascript, Ruby, PHP, Golang, Perl, Bash__
+
+  : *Efficient with DevOps tools*
+    __Docker, Packer, Consul, Vagrant, Chef, Ansible, Terraform__
+
+  : *Good enough in Linux*
+    __System administration, system tuning, CentOS, Debian, Alpine__
+
+  : *I know my way in Virtualization usages*
+    __VirtualBox, KVM, Xen, VMWare__
+
+  : *Efficient in Mac OS*
+    __Everyday and workstation usage, low-level system__
+
+Human :
+  : *Eager to learn*
+    __See technical backgrounds__
+
+  : *Like to share*
+    __Conference speaker, teacher__
+
+  : *Not afraid to travel*
+    __Been to South America and across Europe__
+
+------
+
+### Personal {#personal}
+
+
+Conferences speaker experiences :
+  : *The Raspberry Challenge (EN)*
+    __DockerCon EU Barcelona 2015__
+  : *Your devbox in Docker (FR)*
+    __Mix-IT 2015 Lyon__
+  : *Docker in a big company (EN)*
+    __DockerCon EU Amsterdam 2015__
+
+Personal interests :
+  : *Contributing in Docker Meetups in Lyon and Brussels*
+    __Planning, organizing, and animating__
+  : *Rock-climbing Teaching*
+    __for more than 10 years (children, adults, competitors, disabled people)__
 
 
 ------
