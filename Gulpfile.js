@@ -1,6 +1,5 @@
 var gulp = require('gulp');
 var shell = require('gulp-shell');
-var open = require('gulp-open');
 
 var listen_ip = '0.0.0.0';
 var listen_port = 4000;
@@ -48,11 +47,6 @@ function notifyLiveReload(event) {
     }
   });
 }
-
-gulp.task('open', function(){
-  gulp.src(__filename)
-    .pipe(open({uri: 'http://' + listen_ip + ':' + listen_port + '/cv.html'}));
-});
 
 gulp.task('render',
   ['md2resume2html','md2resume2pdf'],

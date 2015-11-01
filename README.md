@@ -41,6 +41,10 @@ Then, just run  to launch the [Gulp][5] process :
 $ docker-compose up
 ```
 
+Open you browser to the page, using your Docker Engine IP :
+```
+http://<YOUR DOCKER ENGINE IP>:4000/cv.html
+```
 
 
 ## Not-so-easy method : Local Gulp
@@ -54,26 +58,27 @@ you should follow those instructions in the right order :
 2. With [NPM][3] installed, get [Napa][4] (used to help [NPM][3]
 to manage dependencies with no ```package.json``` file descriptor)
 with this command :
-```
-# '-g' is for 'globally'
-$ npm install -g napa
-...
-```
+    ```
+    # '-g' is for 'globally'
+    $ npm install -g napa
+    ...
+    ```
 
 3. Then you can bootstrap dependencies with [NPM][3] :
-```
-# Will install all the dev. modules locally
-$ npm install
-...
-```
+    ```
+    # Will install all the dev. modules locally
+    $ npm install
+    ...
+    ```
 
-4. [Gulp](http://gulpjs.com) is used as workflow engine by running tasks :
+4. [Gulp][5] is used as workflow engine by running tasks :
     ```
     $ gulp
     # It will run the default task that renders, serves pages
-    # and opens the page on your web-browser with live-reload enabled
+    # with live-reload enabled
     ```
 
+5. Open your browser to http://localhost:4000
 
 # Licensing
 
