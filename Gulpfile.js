@@ -2,7 +2,7 @@ var gulp = require('gulp');
 var shell = require('gulp-shell');
 var open = require('gulp-open');
 
-var listen_ip = '127.0.0.1';
+var listen_ip = '0.0.0.0';
 var listen_port = 4000;
 var notify_reload_listen_port = 35729;
 

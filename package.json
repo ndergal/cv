@@ -3,6 +3,8 @@
     "version": "1.0.0",
     "description": "CV of Damien DUPORTAL in markdown source",
     "repository": "https://github.com/dduportal/curriculum_vitae",
+    "readme": "README.md",
+    "private": true,
     "main": "cv.html",
     "scripts": {
         "install": "napa"

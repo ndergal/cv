@@ -28,7 +28,25 @@ I also wanted to (re)-learn some basics of the front [(and back)](http://www.com
 
 # How ?
 
-If you want to play around with the development tools,
+## Easy method : [Docker][6] and [Compose][7]
+
+[Docker][6] is used to make the packaging easy and portable
+[Compose][7] will take care of mounting files, forwarding ports, etc.
+
+Ensure you have [Docker][6] and [Compose][7] clients
+configured to reach a working Docker Engine
+
+Then, just run  to launch the [Gulp][5] process :
+```
+$ docker-compose up
+```
+
+
+
+## Not-so-easy method : Local Gulp
+
+If you know your way with [Gulp][5], [NPM][3],
+or just do not want to use [Docker][6],
 you should follow those instructions in the right order :
 
 1. Install [NPM][3]. We use it to manage dependencies.
@@ -72,3 +90,5 @@ if you make it appear with the same license.
 [3]: https://npmjs.org
 [4]: https://www.npmjs.com/package/napa
 [5]: http://gulpjs.com
+[6]: https://docker.com
+[7]: https://docs.docker.com/compose/
