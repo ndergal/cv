@@ -53,7 +53,6 @@ gulp.task(
     ['md2resume2html',
         'express',
         'livereload',
-        'watch',
-        'open'],
+        'watch'],
     function() {
 });
