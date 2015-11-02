@@ -11,7 +11,7 @@
 
 ### Profile {#profile}
 
-Software Engineer focused on "Human stack" as well as "Technical stacks".
+Software Engineer focused on the "Human stack" as well as the "Technical stacks".
 
 ------
 
@@ -20,14 +20,14 @@ Software Engineer focused on "Human stack" as well as "Technical stacks".
 Atos Worldline
   : *Lead DevOps Engineer (Brussels, Belgium)*
     __2014-today__
-      Half time working in Worldline's internal Forge, pushing new ways of working to solve problems : Github flows, continuous delivery, continuous learning, cloud paradigms, etc. <br/>
-      Half time deploying a global internal open-source organization to onboard Docker inside the company, leveraging training, production support, developer contribution, change (often) management <br />
-      Internal consultancy in firefighting projects to help before first production deliveries
+      Half time working on Worldline's internal Forge, promoting new ways to solve problems : Github workflows, continuous delivery, continuous learning, cloud paradigms, etc. <br/>
+      Half time deploying a global intra-company open-source organization to onboard Docker inside the company, leveraging training, production support, developer contribution, change (often) management <br />
+      Internal consultancy in firefighting projects, generally to support birth pains of first production deliveries
 
   : *Software and DevOps Engineer (Lyon, France)*
     __2011-2014__
-      Operationally leading of a GIS platform for the French Geographical Institute. Project management of integration of new applications, maintaining in operational state, coordinating external companies, maintaining innovation state regarding tooling. <br/>
-      Part time "Innovation Labs", studying on Virtualizing production to developers.
+      Operational leading of a GIS platform for the French Geographical Institute. Project management of new applications integration, maintaining in operational state, coordinating with external companies, maintaining state-of-the-art and innovative tooling. <br/>
+      Part time member of the "Innovation Labs", teaching virtualizing products to developers.
 
   : *Platform Engineer (Lyon, France)*
     __2010-2011__
@@ -36,7 +36,7 @@ Atos Worldline
 Teacher in Engineering Schools
   : *E.N.S.G. (Marne-la Vallée, Paris, France)*
     __2014-today__
-        Teaching GIS basics to Master-2 students for a 50-hours grade. Covering basics of High Availability, Data managing, System architectures. Practical session around Geoserver to understand fault tolerance.
+        Teaching GIS basics to Master-2 students for a 50-hours grade. Covering basics of High Availability, Data management, System architectures. Practical session around Geoserver to understand fault tolerance.
 
   : *E.P.S.I (Lyon and Grenoble, France)*
     __2013-2014__
@@ -54,7 +54,7 @@ Master's Degree of IT Engineering
   : *INSA de Lyon (France)*
     __2005-2010__
     3 years studying common IT engineering : <br />
-    Covering software development, basics of machines architectures, project management, Linux commons, workgroups, business analysis, discrete mathematics,
+    Topics covered software development, basics of machines architectures, project management, Linux commons, workgroups, business analysis, discrete mathematics,
     sports and Economic intelligence. <br />
     After 2 years of "common" Engineering : physics, chemistry, mechanic,
     common mathematics, IT basics, manufacturing production, sports, humanities.
@@ -91,26 +91,26 @@ Technical :
   : *I know how to manage my sources with SCMs*
     __SVN, Mercurial, Git__
 
-  : *I can write software in some languages*
+  : *I can write software in several languages*
     __Java, Javascript, Ruby, PHP, Golang, Perl, Bash__
 
   : *Efficient with DevOps tools*
     __Docker, Packer, Consul, Vagrant, Chef, Ansible, Terraform__
 
-  : *Good enough in Linux*
+  : *Fluent in Linux*
     __System administration, system tuning, CentOS, Debian, Alpine__
 
-  : *I know my way in Virtualization usages*
+  : *I know my way with Virtualization*
     __VirtualBox, KVM, Xen, VMWare__
 
-  : *Efficient in Mac OS*
+  : *Efficient with Mac OS*
     __Everyday and workstation usage, low-level system__
 
 Human :
   : *Eager to learn*
     __See technical backgrounds__
 
-  : *Like to share*
+  : *Likes to share*
     __Conference speaker, teacher__
 
   : *Not afraid to travel*
@@ -127,7 +127,7 @@ Conferences speaker experiences :
   : *Your devbox in Docker (FR)*
     __Mix-IT 2015 Lyon__
   : *Docker in a big company (EN)*
-    __DockerCon EU Amsterdam 2015__
+    __DockerCon EU Amsterdam 2014__
 
 Personal interests :
   : *Contributing in Docker Meetups in Lyon and Brussels*
