@@ -1,5 +1,5 @@
 gulp-server:
-    image: dduportal/md2cv
+    image: dduportal/md2cv:1.0.0
     # In case of tuning, comment image line and uncomment build below
     #build: ./
     volumes:
