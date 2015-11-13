@@ -1,7 +1,7 @@
 # Damien DUPORTAL
 ## DevOps Engineer @ Atos Worldline
 
-> [Download PDF](resume.pdf)  
+> [Download PDF](cv.pdf)  
 > [damien.duportal@gmail.com](damien.duportal@gmail.com)<br/>
 > [@DamienDuportal](https://twitter.com/DamienDuportal)
 > [Github](https://github.com/dduportal)
