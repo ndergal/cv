@@ -5,31 +5,34 @@ var listen_ip = '0.0.0.0';
 var listen_port = 4000;
 var notify_reload_listen_port = 35729;
 
-// markdown-resume settings
-var md2resume_bin = './node_modules/markdown-resume/bin/md2resume'
-var template = process.env.MD2R_TPL || "blockish"
+var serv_dir = './src/export';
 
-gulp.task('md2resume2html', shell.task([
-    md2resume_bin + ' html --template ' +
-    template + ' ./cv.md ./'
-]));
+gulp.task('html',
+    shell.task('ruby ./src/ruby/gen-html.rb'));
 
-gulp.task('md2resume2pdf', shell.task([
-  md2resume_bin + ' pdf --template ' +
-  template + ' ./cv.md ./'
-]));
+gulp.task('styles',
+    shell.task('ruby ./src/ruby/gen-css.rb'));
 
 gulp.task('express', function() {
     var express = require('express');
     var app = express();
-    app.use(require('connect-livereload')({port: notify_reload_listen_port}));
-    app.use(express.static(__dirname));
+    app.use(require('connect-livereload')(
+        {port: notify_reload_listen_port}
+    ));
+    app.use(express.static(serv_dir));
     app.listen(listen_port, listen_ip);
 });
 
 gulp.task('watch', function() {
-    gulp.watch('*.md', ['md2resume2html','md2resume2pdf']);
-    gulp.watch('*.html', notifyLiveReload);
+    gulp.watch(
+        ['./src/data/*.yaml','./src/templates/*.haml'],
+        ['html']
+    );
+    gulp.watch('./src/sass/**/*.scss',['styles']);
+    gulp.watch(
+        [serv_dir + '/**/*.html', serv_dir + '/**/*.css'],
+        notifyLiveReload
+    );
 });
 
 var tinylr;
@@ -39,7 +42,8 @@ gulp.task('livereload', function() {
 });
 
 function notifyLiveReload(event) {
-  var fileName = require('path').relative(__dirname, event.path);
+  var fileName = require('path')
+    .relative(serv_dir, event.path);
 
   tinylr.changed({
     body: {
@@ -49,8 +53,9 @@ function notifyLiveReload(event) {
 }
 
 gulp.task(
-    'default',
-    ['md2resume2html',
+    'default',[
+        'styles',
+        'html',
         'express',
         'livereload',
         'watch'],

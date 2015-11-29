@@ -1,0 +1,117 @@
+personal:
+    name: "Damien DUPORTAL"
+    jobtitle: "DevOps Engineer @ Atos Worldline"
+    location:
+        city: "Liège / Brussels"
+        country: "Belgium"
+    picture: "https://dl.dropboxusercontent.com/u/2524496/ddu.jpg"
+
+profile:
+    bio: "Software Engineer focused on the 'Human stack' as well as the
+        'Technical stacks'"
+
+experience:
+    - title: "Atos Worldline : Lead DevOps Engineer & technical advocate"
+      date:
+        start: "07/2014"
+        end: "present"
+      description: "Part time bootstraping the usage of Docker within
+        Worldline by pushing an internal collaborative initiative.
+        Part time as technical 'firefighter', generally to support birth pains
+        of first production deliveries. Part time as technical advocate to the
+        internal forge to scale out to 8000 users."
+    - title: "E.N.S.G. : GIS teacher in Engineering school"
+      date:
+        start: "12/2014"
+        end: "present"
+      description: "Teaching GIS basics to Master-2 students
+        for a 50-hours grade. Covering basics of High Availability,
+        Data management, System architectures.
+        Practical session around Geoserver to understand fault tolerance."
+    - title: "E.P.S.I. : HA teacher in Engineering school"
+      date:
+        start: "03/2014"
+        end: "09/2014"
+      description: "Teaching basic concepts of High Availability to Master-1
+        students during a 20-hours grade, to 3 different groups.
+        Practical sessions around basic fault tolerance patterns."
+    - title: "Atos Worldline : Software and DevOps Engineer in a GIS project"
+      date:
+        start: "04/2011"
+        end: "07/2014"
+      description: " Operational leading of a GIS platform for the French
+        Geographical Institute. Project management of new applications
+        integration, maintaining in operational state, coordinating with
+        external companies, maintaining state-of-the-art and innovative tooling.
+        Part time member of the 'Innovation Labs', teaching virtualizing
+        products and building reusable tooling for developers."
+    - title: "Atos Worldline : Platform Engineer"
+      date:
+        start: "12/2010"
+        end: "04/2014"
+      description: "Maintaining in operational state a set of heterogenous
+        platforms for French ministries, coordinating with production teams
+        (internals and externals)."
+    - title: "SwordGroup : Software Engineer trainee"
+      date:
+        start: "04/2010"
+        end: "10/2010"
+      description: "Integration of open-source GIS software inside IntelliGIS,
+        a new product based on Oracle/ESRI and written in Java."
+
+education:
+    - title: "I.N.S.A. Lyon : Master's Degree of IT Engineering"
+      date:
+        start: "09/2005"
+        end: "10/2010"
+      description: "3 years studying common IT and software engineering, after
+        2 years of 'common engineering' and sciences"
+    - title: "Pontificia Universidad de Valparaíso : Academic exchange"
+      date:
+        start: "06/2009"
+        end: "12/2009"
+      description: "6 month of academic exchange in IT Engineering"
+    - title: "St-Etienne : French Baccalauréat"
+      date:
+        end: "06/2005"
+      description: "Graduated vite 'very good' mention in sciences series.
+        Mathematics specialization, cinematography and Rock-climibing options."
+
+details:
+    birthdate: "09/12/1987"
+    address:
+        - "Victor Croisier, 6"
+        - "4000 - Liège"
+    phonenumbers:
+        - "FR : +33(0)6 50 83 37 76"
+        - "BE : +33(0)4 72 97 20 06"
+    email: "damien.duportal@gmail.com"
+
+lists:
+    - Languages:
+        - French (native): 100
+        - English (865 TOEIC): 95
+        - Spanish (6 months in Chile): 60
+
+    - Skills:
+        - Docker: 100
+        - Sharing knowledge with pleasure: 95
+        - SCMs (Git/Mercurial): 90
+        - VirtualBox / Vagrant: 90
+        - Jenkins: 90
+        - Learning: 90
+        - Linux: 85
+        - Hashicorp stack (Packer/Terraform/Consul): 85
+        - Provisionners (Ansible, Chef) : 80
+        - Bash: 80
+        - Speaker - Trainer: 75
+        - SCRUM methodology: 60
+        - Javascript: 60
+        - Golang: 60
+        - Java: 55
+        - Perl: 50
+        - Ruby: 45
+        - Writing blog posts: 25
+
+links:
+    - "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600"
