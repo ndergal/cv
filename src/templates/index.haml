@@ -59,6 +59,15 @@
                 %li= phonenumber
               %li
                 %a{:href => "mailto:#{data['details']['email']}"}= data['details']['email']
+              %li
+                %a{:href => data['details']['github']['link'], :target => "_blank", :rel => "external"}= data['details']['github']['label']
+              %li
+                %a{:href => data['details']['linkedin']['link'], :target => "_blank", :rel => "external"}= data['details']['linkedin']['label']
+              %li
+                %a{:href => data['details']['twitter']['link'], :target => "_blank", :rel => "external"}= data['details']['twitter']['label']
+
+
+
 
         - data['lists'].each do |list|
           - list.each do |type, values|

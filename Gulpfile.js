@@ -23,6 +23,13 @@ gulp.task('express', function() {
     app.listen(listen_port, listen_ip);
 });
 
+gulp.task('copy-assets', function() {
+    return gulp.src([
+        './node_modules/font-awesome/**'
+    ])
+    .pipe(gulp.dest(serv_dir +'/assets/font-awesome'))
+});
+
 gulp.task('watch', function() {
     gulp.watch(
         ['./src/data/*.yaml','./src/templates/*.haml'],
@@ -54,6 +61,7 @@ function notifyLiveReload(event) {
 
 gulp.task(
     'default',[
+        'copy-assets',
         'styles',
         'html',
         'express',

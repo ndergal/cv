@@ -2,7 +2,7 @@ personal:
     name: "Damien DUPORTAL"
     jobtitle: "DevOps Engineer @ Atos Worldline"
     location:
-        city: "Liège / Brussels"
+        city: "<i class='fa fa-map-marker'></i> Liège / Brussels"
         country: "Belgium"
     picture: "https://dl.dropboxusercontent.com/u/2524496/ddu.jpg"
 
@@ -80,12 +80,20 @@ education:
 details:
     birthdate: "09/12/1987"
     address:
-        - "Victor Croisier, 6"
-        - "4000 - Liège"
+        - "<i class='fa fa-home'></i> Victor Croisier, 6, 4000 - Liège"
     phonenumbers:
-        - "FR : +33(0)6 50 83 37 76"
-        - "BE : +33(0)4 72 97 20 06"
-    email: "damien.duportal@gmail.com"
+        - "<i class='fa fa-mobile-phone'></i> FR : +33(0)6 50 83 37 76"
+        - "<i class='fa fa-mobile-phone'></i> BE : +33(0)4 72 97 20 06"
+    email: "<i class='fa fa-envelope'></i> damien.duportal@gmail.com"
+    github:
+        link: "https://github.com/dduportal"
+        label: "<i class='fa fa-github'></i> My github"
+    linkedin:
+        link: "https://www.linkedin.com/in/damien-duportal-ab70b524"
+        label: "<i class='fa fa-linkedin'></i> My linkedin"
+    twitter:
+        link: "https://twitter.com/DamienDuportal"
+        label: "<i class='fa fa-twitter'></i> @DamienDuportal"
 
 lists:
     - Languages:
@@ -115,3 +123,4 @@ lists:
 
 links:
     - "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600"
+    - "./assets/font-awesome/css/font-awesome.min.css"
