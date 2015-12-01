@@ -64,7 +64,7 @@ education:
       date:
         start: "09/2005"
         end: "10/2010"
-      description: "3 years studying common IT and software engineering, after
+      description: "3 years studying software engineering and common IT, after
         2 years of 'common engineering' and sciences"
     - title: "Pontificia Universidad de Valparaíso : Academic exchange"
       date:
@@ -74,8 +74,8 @@ education:
     - title: "St-Etienne : French Baccalauréat"
       date:
         end: "06/2005"
-      description: "Graduated vite 'very good' mention in sciences series.
-        Mathematics specialization, cinematography and Rock-climibing options."
+      description: "Graduated with 'very good' mention in sciences series.
+        Mathematics specialization, cinematography and rock-climibing options."
 
 details:
     birthdate: "09/12/1987"
@@ -100,26 +100,26 @@ lists:
         - French (native): 100
         - English (865 TOEIC): 95
         - Spanish (6 months in Chile): 60
-
+    - Soft skills:
+        - Enthusiastic teacher: 95
+        - Curious learner: 90
+        - Speaker: 75
+        - SCRUM methodology: 60
+        - Writing blog posts: 25
     - Skills:
         - Docker: 100
-        - Sharing knowledge with pleasure: 95
         - SCMs (Git/Mercurial): 90
         - VirtualBox / Vagrant: 90
         - Jenkins: 90
-        - Learning: 90
         - Linux: 85
         - Hashicorp stack (Packer/Terraform/Consul): 85
         - Provisionners (Ansible, Chef) : 80
         - Bash: 80
-        - Speaker - Trainer: 75
-        - SCRUM methodology: 60
         - Javascript: 60
         - Golang: 60
         - Java: 55
         - Perl: 50
         - Ruby: 45
-        - Writing blog posts: 25
 
 links:
     - "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600"
