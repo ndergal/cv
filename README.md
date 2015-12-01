@@ -16,16 +16,19 @@ As a software engineer, I wanted my CV to follow my professional practices :
 I also wanted to (re)-learn some basics of the front [(and back)][8] end
 development, using a task runner, livereload, and other facilities.
 
+Ruby is also used because, it is just **fun** to
+combine heterogenous tools.
+
 
 # What ?
 
 * Content of the CV is in
-[Markdown format][1].
+[YAML format][1].
 * HTML and PDF rendered versions can also be found here :
-  - [HTML version](./cv.html)
-  - [PDF version](./cv.pdf)
-* Rendering is done  with
-[the useful Markdown2Resume tool][2].
+  - [HTML version](./src/export/cv.html)
+  - PDF version (not available yet)
+* Rendering from YAML to HTML is done with [HAML engine][2]
+* This is mainly a fork of [hoogeveen/cv](https://github.com/hoogeveen/cv), thanks for this great work !
 
 # How ?
 
@@ -44,24 +47,26 @@ $ docker-compose up
 
 Open you browser to the page, using your Docker Engine IP :
 ```
-http://<YOUR DOCKER ENGINE IP>:4000/cv.html
+http://<YOUR DOCKER ENGINE IP>:4000
 ```
 
+## Not-so-easy method : Local Gulp and local Bundler
 
-## Not-so-easy method : Local Gulp
+> TIP : the Dockerfile is a good idea to understand
+> how to do that.
 
-If you know your way with [Gulp][5], [NPM][3],
+If you know your way with [Gulp][5], [NPM][3], and [Bundler](4)
 or just do not want to use [Docker][6],
 you should follow those instructions in the right order :
 
 1. Install [NPM][3]. We use it to manage dependencies.
 
-2. With [NPM][3] installed, get [Napa][4] (used to help [NPM][3]
-to manage dependencies with no ```package.json``` file descriptor)
+2. Then you need a [Ruby Bundler installation][4]
+to manage dependencies of Ruby Gem
 with this command :
     ```
-    # '-g' is for 'globally'
-    $ npm install -g napa
+    # With Ruby and Bundler installed
+    $ bundle install
     ...
     ```
 
@@ -91,10 +96,10 @@ It means you can use the content only
 if you make it appear with the same license.
 
 
-[1]: https://daringfireball.net/projects/markdown
-[2]: https://github.com/there4/markdown-resume
+[1]: http://yaml.org
+[2]: http://haml.info
 [3]: https://npmjs.org
-[4]: https://www.npmjs.com/package/napa
+[4]: http://bundler.io
 [5]: http://gulpjs.com
 [6]: https://docker.com
 [7]: https://docs.docker.com/compose/
