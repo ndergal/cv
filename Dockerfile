@@ -2,6 +2,7 @@ FROM alpine:latest
 MAINTAINER Damien DUPORTAL <damien.duportal@gmail.com>
 
 RUN apk --update add \
+        git \
         nodejs \
         ruby \
         ruby-bundler \
@@ -21,4 +22,5 @@ RUN npm install
 COPY ./src /app/src
 
 EXPOSE 4000 35729
-CMD ["gulp"]
+ENTRYPOINT ["gulp"]
+CMD ["default"]

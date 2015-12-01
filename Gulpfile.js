@@ -1,11 +1,13 @@
 var gulp = require('gulp');
 var shell = require('gulp-shell');
+var git = require('gulp-git');
 
 var listen_ip = '0.0.0.0';
 var listen_port = 4000;
 var notify_reload_listen_port = 35729;
 
 var serv_dir = './src/export';
+var deploy_dir = process.env.DEPLOY_DIR || './dduportal.github.io'
 
 gulp.task('html',
     shell.task('ruby ./src/ruby/gen-html.rb'));
@@ -58,6 +60,16 @@ function notifyLiveReload(event) {
     }
   });
 }
+
+gulp.task('deploy', function() {
+    gulp.src(['./src/export/**'])
+      .pipe(gulp.dest(deploy_dir + '/cv'));
+    git.exec({args : '--git-dir=/deploy add .'}, function (err, stdout) {
+      if (err) throw err;
+      console.log(stdout);
+    });
+    //gulp.src('./' + deploy_dir + '/**').pipe(git.commit('Deploy a new version from gulp deploy'));
+});
 
 gulp.task(
     'default',[

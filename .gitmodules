@@ -1,0 +1,3 @@
+[submodule "dduportal.github.io"]
+	path = dduportal.github.io
+	url = git@github.com:dduportal/dduportal.github.io.git
