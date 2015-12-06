@@ -86,6 +86,38 @@ with this command :
 
 5. Open your browser to http://localhost:4000
 
+# Deploying
+
+The folder ```./src/export``` :
+* Is not stored inside git (cf ```.gitignore```)
+* Is both generated and served by the [Gulp][5] workflow
+
+If you want to deploy the content of this folder to another directory,
+just mount it with [docker-compose][7] and provide and environment variable.
+
+For example, using [docker-compose extending feature](https://docs.docker.com/compose/extends/) :
+
+1. Create a file name ```docker-compose.override.yml``` at the repository root
+(note that this file will not be git-tracked for security reasons) :
+```yml
+gulp-server:
+    volumes:
+      - ~/some/folder:/folder/to/deploy
+    environment:
+      - DEPLOY_DIR=/folder/to/deploy
+```
+
+2. Then, just call the gulp ```deploy```target :
+```
+$ docker-compose run gulp-server deploy
+```
+
+3. OR run ```gulp deploy```if you are in local mode:
+```
+$ DEPLOY_DIR=~/some/folder gulp deploy
+```
+
+
 # Licensing
 
 This repository is provided on the [ISC license](http://www.gnu.org/licenses/license-list.html#ISC).

@@ -4,6 +4,7 @@ MAINTAINER Damien DUPORTAL <damien.duportal@gmail.com>
 RUN apk --update add \
         git \
         nodejs \
+        openssh-client \
         ruby \
         ruby-bundler \
         ruby-io-console \
