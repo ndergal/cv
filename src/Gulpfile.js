@@ -1,5 +1,6 @@
 var gulp = require('gulp');
 var shell = require('gulp-shell');
+var gulpsync = require('gulp-sync')(gulp);
 
 var listen_ip = '0.0.0.0';
 var listen_port = 4000;
@@ -13,10 +14,12 @@ gulp.task('clean',shell.task([
     'mkdir -p ' + serv_dir
 ]));
 
-gulp.task('html', ['clean'],
+gulp.task('init', gulpsync.sync(['clean','copy-assets','html','styles',]));
+
+gulp.task('html',
     shell.task('ruby ./ruby/gen-html.rb'));
 
-gulp.task('styles', ['clean'],
+gulp.task('styles',
     shell.task('ruby ./ruby/gen-css.rb'));
 
 gulp.task('express', function() {
@@ -29,11 +32,11 @@ gulp.task('express', function() {
     app.listen(listen_port, listen_ip);
 });
 
-gulp.task('copy-assets', ['clean'], function() {
+gulp.task('copy-assets', function() {
     return gulp.src([
         '../node_modules/font-awesome/**'
     ])
-    .pipe(gulp.dest(serv_dir +'/assets/font-awesome'))
+        .pipe(gulp.dest(serv_dir +'/assets/font-awesome'))
 });
 
 gulp.task('watch', function() {
@@ -72,10 +75,7 @@ gulp.task('deploy', function() {
 
 gulp.task(
     'default',[
-        'clean',
-        'copy-assets',
-        'styles',
-        'html',
+        'init',
         'express',
         'livereload',
         'watch'],
