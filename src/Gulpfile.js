@@ -9,10 +9,15 @@ var notify_reload_listen_port = 35729;
 var serv_dir = './export';
 var deploy_dir = process.env.DEPLOY_DIR || './dduportal.github.io'
 
-gulp.task('html',
+gulp.task('clean',shell.task([
+    'rm -rf ' + serv_dir,
+    'mkdir -p ' + serv_dir
+]));
+
+gulp.task('html', ['clean'],
     shell.task('ruby ./ruby/gen-html.rb'));
 
-gulp.task('styles',
+gulp.task('styles', ['clean'],
     shell.task('ruby ./ruby/gen-css.rb'));
 
 gulp.task('express', function() {
@@ -25,9 +30,9 @@ gulp.task('express', function() {
     app.listen(listen_port, listen_ip);
 });
 
-gulp.task('copy-assets', function() {
+gulp.task('copy-assets', ['clean'], function() {
     return gulp.src([
-        './node_modules/font-awesome/**'
+        '../node_modules/font-awesome/**'
     ])
     .pipe(gulp.dest(serv_dir +'/assets/font-awesome'))
 });
@@ -80,6 +85,7 @@ gulp.task('deploy', function() {
 
 gulp.task(
     'default',[
+        'clean',
         'copy-assets',
         'styles',
         'html',

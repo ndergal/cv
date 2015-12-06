@@ -27,3 +27,4 @@
 node_modules
 .sass-cache
 docker-compose.override.yml
+./src/export
