@@ -123,4 +123,4 @@ lists:
 
 links:
     - "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600"
-    - "./assets/font-awesome/css/font-awesome.min.css"
+    - "./styles/font-awesome.min.css"
