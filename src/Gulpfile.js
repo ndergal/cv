@@ -1,6 +1,5 @@
 var gulp = require('gulp');
 var shell = require('gulp-shell');
-var git = require('gulp-git');
 
 var listen_ip = '0.0.0.0';
 var listen_port = 4000;
@@ -65,14 +64,6 @@ function notifyLiveReload(event) {
     }
   });
 }
-
-gulp.task('clone-deploy-git', function(){
-  return git.clone('git@github.com:dduportal/dduportal.github.io.git', function (err) {
-    if (err) throw err;
-  });
-});
-
-
 
 gulp.task('deploy', function() {
     gulp.src(['./export/**'])
