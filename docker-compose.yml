@@ -3,10 +3,7 @@ gulp-server:
     # In case of tuning, comment image line and uncomment build below
     build: ./
     volumes:
-      - ./Gulpfile.js:/app/Gulpfile.js
-      - ./package.json:/app/package.json
-      - ./src:/app/src
-      - ./dduportal.github.io:/deploy
+      - ./:/app
     environment:
       - DEPLOY_DIR=/deploy
     ports:
