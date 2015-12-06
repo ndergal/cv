@@ -10,11 +10,13 @@ RUN apk --update add \
     && npm install -g gulp \
     && rm -rf /var/cache/apk/*
 
-WORKDIR /install
-COPY Gemfile* /install/
-COPY ./package.json /install/
+WORKDIR /app
+COPY Gemfile* /app/
+COPY ./package.json /app/
 RUN bundle install \
   && npm install
+
+WORKDIR /app/src
 
 EXPOSE 4000 35729
 ENTRYPOINT ["gulp"]
