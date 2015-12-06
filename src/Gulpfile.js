@@ -66,12 +66,8 @@ function notifyLiveReload(event) {
 }
 
 gulp.task('deploy', function() {
-    gulp.src(['./export/**'])
-      .pipe(gulp.dest(deploy_dir + '/cv'));
-    git.exec({args : '--git-dir=/deploy add .'}, function (err, stdout) {
-      if (err) throw err;
-      console.log(stdout);
-    });
+    return gulp.src(serv_dir + '/**')
+      .pipe(gulp.dest(deploy_dir + '/'));
 });
 
 gulp.task(
