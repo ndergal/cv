@@ -58,7 +58,13 @@
               - data['details']['phonenumbers'].each do |phonenumber|
                 %li= phonenumber
               %li
-                %a{:href => "mailto:#{data['details']['email']}"}= data['details']['email']
+                %a{:href => "mailto:#{data['details']['email']}"}
+                  %i{:class => "fa fa-envelope"}
+                  %span= "#{data['details']['email']}"
+              %li
+                %a{:href => "mailto:#{data['details']['pro-email']}"}
+                  %i{:class => "fa fa-envelope-o"}
+                  %span= "#{data['details']['pro-email']}"
               %li
                 %a{:href => data['details']['github']['link'], :target => "_blank", :rel => "external"}= data['details']['github']['label']
               %li

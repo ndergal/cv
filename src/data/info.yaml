@@ -1,8 +1,8 @@
 personal:
     name: "Damien DUPORTAL"
-    jobtitle: "DevOps Engineer @ Atos Worldline"
+    jobtitle: "Training Engineer @ CloudBees"
     location:
-        city: "<i class='fa fa-map-marker'></i> Liège / Brussels"
+        city: "<i class='fa fa-map-marker'></i> Liège"
         country: "Belgium"
     picture: "https://dl.dropboxusercontent.com/u/2524496/ddu.jpg"
 
@@ -11,10 +11,16 @@ profile:
         'Technical stacks'"
 
 experience:
+    - title: "CloudBees : Training Engineer"
+      date:
+        start: "02/2016"
+        end: "present"
+      description: "Providing training content and workshops to CloudBees
+        customer and Jenkins OSS users."
     - title: "Atos Worldline : Lead DevOps Engineer & technical advocate"
       date:
         start: "07/2014"
-        end: "present"
+        end: "02/2016"
       description: "Part time bootstraping the usage of Docker within
         Worldline by pushing an internal collaborative initiative.
         Part time as technical 'firefighter', generally to support birth pains
@@ -80,11 +86,12 @@ education:
 details:
     birthdate: "09/12/1987"
     address:
-        - "<i class='fa fa-home'></i> Victor Croisier, 6, 4000 - Liège"
+        - "<i class='fa fa-home'></i> Victor Croisier, 6, 4000 - Liège, Belgium"
     phonenumbers:
         - "<i class='fa fa-mobile-phone'></i> FR : +33(0)6 50 83 37 76"
         - "<i class='fa fa-mobile-phone'></i> BE : +33(0)4 72 97 20 06"
-    email: "<i class='fa fa-envelope'></i> damien.duportal@gmail.com"
+    email: " damien.duportal@gmail.com"
+    pro-email: " dduportal@cloudbees.com"
     github:
         link: "https://github.com/dduportal"
         label: "<i class='fa fa-github'></i> My github"
