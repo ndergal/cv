@@ -4,7 +4,7 @@ personal:
     location:
         city: "<i class='fa fa-map-marker'></i> Liège"
         country: "Belgium"
-    picture: "https://dl.dropboxusercontent.com/u/2524496/ddu.jpg"
+    picture: "https://dduportal.github.io/public/ddu.jpg"
 
 profile:
     bio: "Software Engineer focused on the 'Human stack' as well as the
@@ -15,8 +15,11 @@ experience:
       date:
         start: "02/2016"
         end: "present"
-      description: "Providing training content and workshops to CloudBees
-        customer and Jenkins OSS users."
+      description: "Providing training to CloudBees customers as part of the
+      service offers. Maintaining the training catalog, building, driving and
+      contributing to a collaborative training as a code content base.
+      Building and delivering training labs for self paced and trainer based.
+      Part time consultancy for CloudBees Profesional Service team."
     - title: "Atos Worldline : Lead DevOps Engineer & technical advocate"
       date:
         start: "07/2014"
@@ -111,13 +114,12 @@ lists:
         - Enthusiastic teacher: 95
         - Curious learner: 90
         - Speaker: 75
-        - SCRUM methodology: 60
         - Writing blog posts: 25
     - Skills:
         - Docker: 100
+        - Jenkins: 100
         - SCMs (Git/Mercurial): 90
         - VirtualBox / Vagrant: 90
-        - Jenkins: 90
         - Linux: 85
         - Hashicorp stack (Packer/Terraform/Consul): 85
         - Provisionners (Ansible, Chef) : 80

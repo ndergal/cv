@@ -1,6 +1,9 @@
-gulp-server:
+version: '3'
+
+services:
+  gulp-server:
     image: dduportal/md2cv:latest
-    # In case of tuning, comment image line and uncomment build below
+    build: ./
     volumes:
       - ./src:/app/src
     ports:

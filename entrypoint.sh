@@ -1,9 +1,8 @@
-#!/bin/sh
+#!/bin/bash
 
 # Link NPM libs to allow separation of host and Docker devs.
 ln -s /install/node_modules /app/src/node_modules
 
-GULP_ARGS="$@"
 PID=0
 
 # From https://github.com/ncarlier/dockerfiles/blob/master/redsocks/redsocks.sh
@@ -35,5 +34,5 @@ pid="$!"
 # wait indefinetely
 while true
 do
-    tail -f /dev/null & wait ${!}
+    tail -f /dev/null & wait "${pid}"
 done

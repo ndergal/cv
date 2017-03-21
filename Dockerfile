@@ -1,19 +1,17 @@
-FROM alpine:latest
-MAINTAINER Damien DUPORTAL <damien.duportal@gmail.com>
+FROM ruby:2.4-alpine
+LABEL Maintainer="Damien DUPORTAL <damien.duportal@gmail.com>"
 
-RUN apk --update add \
-        git \
-        nodejs \
-        openssh-client \
-        ruby \
-        ruby-bundler \
-        ruby-io-console \
-    && npm install -g gulp \
-    && rm -rf /var/cache/apk/*
+RUN apk --update --no-cache add \
+    bash \
+    git \
+    nodejs \
+    openssh-client \
+  && npm install -g gulp
 
 WORKDIR /app
 COPY Gemfile* /app/
 COPY ./package.json /app/
+COPY ./npm-shrinkwrap.json /app/
 RUN bundle install \
   && npm install
 

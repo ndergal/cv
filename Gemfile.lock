@@ -3,8 +3,8 @@ GEM
   specs:
     haml (4.0.7)
       tilt
-    sass (3.4.19)
-    tilt (2.0.1)
+    sass (3.4.22)
+    tilt (2.0.7)
 
 PLATFORMS
   ruby
