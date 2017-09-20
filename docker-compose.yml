@@ -1,8 +1,8 @@
-version: '3'
+version: '3.3'
 
 services:
   gulp-server:
-    image: dduportal/md2cv:latest
+    # image: dduportal/md2cv:latest
     build: ./
     volumes:
       - ./src:/app/src

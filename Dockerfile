@@ -5,6 +5,7 @@ RUN apk --no-cache add \
     bash \
     git \
     nodejs \
+    nodejs-npm \
     openssh-client \
   && npm install -g gulp
 

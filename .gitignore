@@ -22,6 +22,8 @@
 *.mtc1
 *.out
 *.run.xml
+*.swp
+*.swo
 *.synctex.gz
 .DS_Store
 node_modules

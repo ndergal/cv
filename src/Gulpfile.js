@@ -2,7 +2,7 @@ var gulp = require('gulp');
 var shell = require('gulp-shell');
 var gulpsync = require('gulp-sync')(gulp);
 var htmlmin = require('gulp-htmlmin');
-var minifyCss = require('gulp-minify-css');
+var minifyCss = require('gulp-clean-css');
 
 var listen_ip = '0.0.0.0';
 var listen_port = 4000;
