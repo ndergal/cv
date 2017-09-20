@@ -1,7 +1,7 @@
-FROM ruby:2.4-alpine
+FROM ruby:2.4-alpine36
 LABEL Maintainer="Damien DUPORTAL <damien.duportal@gmail.com>"
 
-RUN apk --update --no-cache add \
+RUN apk --no-cache add \
     bash \
     git \
     nodejs \
