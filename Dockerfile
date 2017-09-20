@@ -1,4 +1,4 @@
-FROM ruby:2.4-alpine36
+FROM ruby:2.4-alpine3.6
 LABEL Maintainer="Damien DUPORTAL <damien.duportal@gmail.com>"
 
 RUN apk --no-cache add \
