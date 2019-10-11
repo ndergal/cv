@@ -13,4 +13,4 @@ services:
     build: ./
     volumes:
       - ./src:/app/src
-    command: deploy
+    command: init deploy
