@@ -3,7 +3,7 @@ services:
 - docker
 
 script:
-- docker-compose run gulp-server deploy
+- docker-compose up gulp-deploy
 
 deploy:
   - provider: pages
