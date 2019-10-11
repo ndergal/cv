@@ -1,0 +1,18 @@
+
+services:
+- docker
+
+script:
+- docker-compose run gulp-server deploy
+
+deploy:
+  - provider: pages
+    local-dir: ./src/export
+    skip-cleanup: true
+    github-token: $GITHUB_TOKEN
+    keep-history: false
+    target-branch: gh-pages
+    verbose: true
+    on:
+      all_branches: true
+      condition: $TRAVIS_BRANCH != ^gh-pages$
