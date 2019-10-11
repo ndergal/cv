@@ -4,6 +4,7 @@ services:
 
 script:
 - docker-compose up gulp-deploy
+- find . -type f -name index.html
 
 deploy:
   - provider: pages
