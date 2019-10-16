@@ -3,7 +3,7 @@ services:
   - docker
 
 script:
-- docker-compose up
+  - docker-compose up
 
 before_deploy:
   - export DEPLOY_DIR=./deploy/
@@ -26,4 +26,12 @@ deploy:
     on:
       branch: master
   - provider: pages
-  - docker-compose up
+    local-dir: ./deploy/
+    skip-cleanup: true
+    github-token: $GITHUB_TOKEN
+    keep-history: false
+    target-branch: ${DEPLOY_BRANCH}
+    verbose: true
+    on:
+      all_branches: true
+      condition: $TRAVIS_BRANCH != ^gh-pages$
