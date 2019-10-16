@@ -5,15 +5,26 @@ services:
 script:
   - docker-compose up
 
+env:
+  - DEPLOY_DIR=./deploy/
+  - DEPLOY_BRANCH=gh-pages
+
 before_deploy:
+<<<<<<< HEAD
   - export DEPLOY_DIR=./deploy/
   - export DEPLOY_BRANCH=gh-pages
+=======
+>>>>>>> Fix gh pages deploy
   - rm -rf "${DEPLOY_DIR}"
   - git config remote.origin.fetch +refs/heads/*:refs/remotes/origin/*
   - git fetch --unshallow origin "${DEPLOY_BRANCH}" 2>/dev/null  || git fetch origin
   - git worktree add -b "${DEPLOY_BRANCH}" "${DEPLOY_DIR}" origin/"${DEPLOY_BRANCH}" 2>/dev/null || git worktree add --force "${DEPLOY_DIR}" origin/"${DEPLOY_BRANCH}" 2>/dev/null
   - mkdir -p "${DEPLOY_DIR}/${TRAVIS_BRANCH}"
+<<<<<<< HEAD
   - cp -r ./dist/* "${DEPLOY_DIR}/${TRAVIS_BRANCH}/"
+=======
+  - cp ./dist/* "${DEPLOY_DIR}/${TRAVIS_BRANCH}/"
+>>>>>>> Fix gh pages deploy
 
 deploy:
   - provider: pages
