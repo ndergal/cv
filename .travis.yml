@@ -1,9 +1,9 @@
 
 services:
-- docker
+  - docker
 
 script:
-- docker-compose up gulp-deploy
+- docker-compose up
 
 before_deploy:
   - export DEPLOY_DIR=./deploy/
@@ -13,7 +13,7 @@ before_deploy:
   - git fetch --unshallow origin "${DEPLOY_BRANCH}" 2>/dev/null  || git fetch origin
   - git worktree add -b "${DEPLOY_BRANCH}" "${DEPLOY_DIR}" origin/"${DEPLOY_BRANCH}" 2>/dev/null || git worktree add --force "${DEPLOY_DIR}" origin/"${DEPLOY_BRANCH}" 2>/dev/null
   - mkdir -p "${DEPLOY_DIR}/${TRAVIS_BRANCH}"
-  - cp -r ./src/export/* "${DEPLOY_DIR}/${TRAVIS_BRANCH}/"
+  - cp -r ./dist/* "${DEPLOY_DIR}/${TRAVIS_BRANCH}/"
 
 deploy:
   - provider: pages
@@ -26,12 +26,4 @@ deploy:
     on:
       branch: master
   - provider: pages
-    local-dir: ./deploy/
-    skip-cleanup: true
-    github-token: $GITHUB_TOKEN
-    keep-history: false
-    target-branch: ${DEPLOY_BRANCH}
-    verbose: true
-    on:
-      all_branches: true
-      condition: $TRAVIS_BRANCH != ^gh-pages$
+  - docker-compose up

@@ -2,7 +2,7 @@
 *.swo
 *gz
 .DS_Store
-node_modules
-.sass-cache
-src/export/
-src/dduportal.github.io
+*.zip
+*.gz
+deploy/
+dist/
