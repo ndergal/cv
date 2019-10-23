@@ -1,9 +1,17 @@
 # Curriculum Vitae | Damien DUPORTAL
-Damien DUPORTAL <damien.duportal+pro@gmail.com>
+Damien DUPORTAL 
 v2.0, 2019-10-16
-:toc:
+:toc: left
+:icons: font
+:email: damien.duportal+pro@gmail.com
+:sectlinks:
 
 ## Personal
+
+* link:mailto:{email}[icon:envelope[] E-Mail]
+* link:https://github.com/dduportal[icon:github[] Github `dduportal`,window="_blank"]
+* link:https://twitter.com/DamienDuportal[icon:twitter[] `@DamienDuportal`,window="_blank"]
+* link:https://www.linkedin.com/in/damien-duportal-ab70b524/[icon:linkedin[] Linkedin Profile,window="_blank"]
 
 //     location:
 //         city: "<i class='fa fa-map-marker'></i> Liège"
@@ -16,77 +24,111 @@ v2.0, 2019-10-16
 
 ### Freelancing
 
-#### Containous: Developer Advocate for Traefik
+#### Developer Advocate for Traefik Project
 
-date:
-start: "07/2018"
-end: "12/2019"
-description: "Advocating for the Traefik Community: talking on conferences,
-giving workshops and training, contributing to the software and its
-documentation, participating on the community and contributing to
-Containous's Enterprise Software."
+* icon:calendar-plus-o[] From: `07/2018`
+* icon:calendar-minus-o[] Until: `12/2019`
+* icon:users[] link:https://containo./us[Containous,window="_blank"]
+
+[NOTE]
+.Description
+====
+Advocating for the Traefik Community: talking on conferences, giving workshops and training, 
+contributing to the software and its documentation, 
+participating on the community and contributing to Containous's Enterprise Software.
+====
 
 #### CloudBees: Training Infrastructure Consultance
 
-date:
-start: "02/2019"
-end: "09/2019"
-description: "Consultancy for knowledge transfer and technical support for the training infrastructure.
+* icon:calendar-plus-o[] From: `02/2019`
+* icon:calendar-minus-o[] Until: `09/2019`
+* icon:users[] link:https://www.cloudbees.com/[CloudBees,window="_blank"]
+
+[NOTE]
+.Description
+====
+Consultancy for knowledge transfer and technical support for the training infrastructure.
 Implied documentation and teaching current team on managing infrastructure with Terraform, Docker and Compose on AWS
-and the training content framework with Asciidoctor, revealjs, Docker and GulpJS."
+and the training content framework with Asciidoctor, revealjs, Docker and GulpJS.
+====
 
 ### Jobs
 
-#### CloudBees: Training Engineer
+#### Training Engineer for Jenkins Project and Products
 
-date:
-start: "02/2016"
-end: "06/2018"
-description: "Providing training to CloudBees customers as part of the
+* icon:calendar-plus-o[] From: `02/2016`
+* icon:calendar-minus-o[] Until: `06/2018`
+* icon:users[] link:https://www.cloudbees.com/[CloudBees,window="_blank"]
+
+[NOTE]
+.Description
+====
+Providing training to CloudBees customers as part of the
 service offers. Maintaining the training catalog, building, driving and
 contributing to a collaborative training as a code content base.
 Building and delivering training labs for self paced and trainer based.
-Part time consultancy for CloudBees Profesional Service team."
+Part time consultancy for CloudBees Profesional Service team.
+====
 
-#### Atos Worldline: Lead DevOps Engineer & Technical Advocate
+#### Lead DevOps Engineer & Technical Advocate
 
-date:
-start: "07/2014"
-end: "02/2016"
-description: "Part time bootstraping the usage of Docker within
+* icon:calendar-plus-o[] From: `07/2014`
+* icon:calendar-minus-o[] Until: `02/2016`
+* icon:users[] link:https://worldline.com/[Atos Worldline,window="_blank"]
+
+[NOTE]
+.Description
+====
+Part time bootstraping the usage of Docker within
 Worldline by pushing an internal collaborative initiative.
 Part time as technical 'firefighter', generally to support birth pains
 of first production deliveries. Part time as technical advocate to the
-internal forge to scale out to 8000 users."
+internal forge to scale out to 8000 users.
+====
 
-#### Atos Worldline: GIS Software and DevOps Engineer
+#### GIS Software Engineer / Platform Engineer
 
-date:
-start: "04/2011"
-end: "07/2014"
-description: " Operational leading of a GIS platform for the French
+* icon:calendar-plus-o[] From: `04/2011`
+* icon:calendar-minus-o[] Until: `07/2014`
+* icon:users[] link:https://worldline.com/[Atos Worldline,window="_blank"]
+
+[NOTE]
+.Description
+====
+Operational leading of a GIS platform for the French
 Geographical Institute. Project management of new applications
 integration, maintaining in operational state, coordinating with
 external companies, maintaining state-of-the-art and innovative tooling.
 Part time member of the 'Innovation Labs', teaching virtualizing
-products and building reusable tooling for developers."
+products and building reusable tooling for developers.
+====
 
-#### Atos Worldline: Platform Engineer
+#### Platform Engineer
 
-date:
-start: "12/2010"
-end: "04/2014"
-description: "Maintaining in operational state a set of heterogenous
+* icon:calendar-plus-o[] From: `12/2010`
+* icon:calendar-minus-o[] Until: `04/2011`
+* icon:users[] link:https://worldline.com/[Atos Worldline,window="_blank"]
+
+[NOTE]
+.Description
+====
+Maintaining in operational state a set of heterogenous
 platforms for French ministries, coordinating with production teams
-(internals and externals)."
+(internals and externals).
+====
 
-#### SwordGroup: Software Engineer Trainee
+#### GIS Software Engineering Internship
 
-date:
-start: "04/2010"
-end: "10/2010"
-description: "Integration of open-source GIS software inside IntelliGIS,
-a new product based on Oracle/ESRI and written in Java."
+* icon:calendar-plus-o[] From: `04/2010`
+* icon:calendar-minus-o[] Until: `10/2010`
+* icon:users[] link:https://www.sword-group.com/[Sword Group,window="_blank"]
+
+[NOTE]
+.Description
+====
+Integration of open-source GIS software inside IntelliGIS,
+a new product based on Oracle/ESRI and written in Java.
+====
 
 ### Teachings
 
@@ -136,7 +178,7 @@ Practical sessions around basic fault tolerance patterns."
 
 ## Education 
 
-#### I.N.S.A. Lyon: Master's Degree of IT Engineering"
+### I.N.S.A. Lyon: Master's Degree of IT Engineering"
 
 date:
 start: "09/2005"
@@ -144,7 +186,7 @@ end: "10/2010"
 description: "3 years studying software engineering and common IT, after
 2 years of 'common engineering' and sciences"
 
-#### Pontificia Universidad de Valparaíso: Academic exchange
+### Pontificia Universidad de Valparaíso: Academic exchange
 
 date:
 start: "06/2009"
