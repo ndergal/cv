@@ -2,6 +2,7 @@
 Damien DUPORTAL 
 v2.0, 2019-10-16
 :toc: left
+:toclevels: 3
 :icons: font
 :email: damien.duportal+pro@gmail.com
 :sectlinks:
@@ -132,41 +133,75 @@ a new product based on Oracle/ESRI and written in Java.
 
 ### Teachings
 
-#### E.N.S.G.: Continuous Integration Course
+#### Course: Introduction to Continous Integration and Deployment
 
-date:
-start: "12/2016"
-end: "present"
-description: "Teaching Continous Integration and Delivery (C.I/C.D.)
-practises during 2 days to Master-2 students."
+* icon:calendar[] `01/2019` (Promotion 2018/2019)
+** link:https://dduportal.github.io/ensg-ci-cd/2018-2019/#/introduction_au_ci_cd[icon:slideshare[] Slides,window="_blank"]
 
-#### C.N.A.M.: Introduction to Docker Containers
+* icon:calendar[]  `12/2017` (Promotion 2017/2018)
+** link:https://dduportal.github.io/ensg-ci-cd/cicd-ensg-2017-dec/[icon:slideshare[] Slides,window="_blank"]
 
-date:
-start: "10/2016"
-end: "present"
-description: "Introduction to Docker and Containers to Master-2
-or equivalent student, whom are taking studies after working a few years.
-(3 hours night course)"
+* icon:calendar[]  `02/2017` (Promotion 2016/2017)
+** link:https://dduportal.github.io/ensg-ci-cd/cicd-ensg-2017/slides.html[icon:slideshare[] Slides,window="_blank"]
 
-#### E.N.S.G.: Geographical Information Systems Architectures
+* icon:users[] link:http://www.ensg.eu/[École Nationale des Sciences Géographiques (E.N.S.G.),window="_blank"]
 
-date:
-start: "12/2014"
-end: "present"
-description: "Teaching GIS basics to Master-2 students
-for a 50-hours grade. Covering basics of High Availability,
-Data management, System architectures.
-Practical session around Geoserver to understand fault tolerance."
+[NOTE]
+.Description
+====
+A 2-days introduction to Continous Integration and Delivery (C.I/C.D.) practises to IT Master-2 students.
+Use Jenkins for included workshop, and request to use an alternative (hosted) CI for the exam (Gitlab CI, TravisCI, Github Action, Bitbucket Pipeline, CircleCI, etc.).
+====
 
-#### E.P.S.I. : Introduction to High Avaiability Architectures
+#### Course: Introduction to Docker Containers
 
-date:
-start: "03/2014"
-end: "09/2014"
-description: "Teaching basic concepts of High Availability to Master-1
-students during a 20-hours grade, to 3 different groups.
-Practical sessions around basic fault tolerance patterns."
+* icon:calendar[] `10/2017` (Promotion 2017/2018)
+** link:https://dduportal.github.io/cours/cnam-docker-2017/[icon:slideshare[] Slides,window="_blank"]
+
+* icon:calendar[] `10/2016` (Promotion 2016/2017)
+** link:https://dduportal.github.io/cours/cnam-docker-2018/[icon:slideshare[] Slides,window="_blank"]
+
+* icon:users[] link:http://www.cnam.fr/[Conservatoire National des Arts et Métiers (C.N.A.M.),windows="_blank"]
+
+[NOTE]
+.Description
+====
+Introduction to Docker and Containers to Master-2 or equivalent student, whom are taking studies after working a few years (3 hours night course).
+====
+
+#### Course: Architecture of Geographical Information Systems
+
+* icon:calendar[] `12/2015` (Promotion 2015/2016)
+** link:https://dduportal.github.io/ensg-ci-cd/2018-2019/#/introduction_au_ci_cd[icon:slideshare[] Slides,window="_blank"]
+
+* icon:calendar[]  `12/2014` (Promotion 2014/2015)
+** link:https://dduportal.github.io/ensg-ci-cd/cicd-ensg-2017-dec/[icon:slideshare[] Slides,window="_blank"]
+
+* icon:users[] link:http://www.ensg.eu/[École Nationale des Sciences Géographiques (E.N.S.G.),window="_blank"]
+
+[NOTE]
+.Description
+====
+Teaching GIS basics to Master-2 students for a 50-hours grade. Covering basics of High Availability, Data management, System architectures.
+Practical session around Geoserver to understand fault tolerance.
+====
+
+#### Course: Introduction to Highly Available Architectures
+
+* icon:calendar[] `09/2014` (Promotion Grenoble 2014/2015)
+
+* icon:calendar[] `03/2014` (Promotion Lyon 2013/2014)
+
+* link:https://dduportal.github.io/cours/epsi-ha-2014/[icon:slideshare[] Slides,window="_blank"]
+
+* icon:users[] link:http://www.epsi.fr/[École Professionnelle des Sciences Informatique (E.P.S.I.),window="_blank"]
+
+[NOTE]
+.Description
+====
+Teaching basic concepts of High Availability to Master-1 students during a 20-hours grade, to 3 different groups.
+Practical sessions around basic fault tolerance patterns.
+====
 
 ## Presentations and Writings
 
@@ -180,9 +215,9 @@ Practical sessions around basic fault tolerance patterns."
 
 ### I.N.S.A. Lyon: Master's Degree of IT Engineering"
 
-date:
-start: "09/2005"
-end: "10/2010"
+* icon:graduation-cap[] `10/2010`
+* icon:calendar-plus-o[] Started in `09/2005`
+
 description: "3 years studying software engineering and common IT, after
 2 years of 'common engineering' and sciences"
 
