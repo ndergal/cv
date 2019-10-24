@@ -1,5 +1,5 @@
 # Curriculum Vitae | Damien DUPORTAL
-Damien DUPORTAL 
+Damien DUPORTAL
 v2.0, 2019-10-16
 :toc: left
 :toclevels: 3
@@ -20,6 +20,12 @@ v2.0, 2019-10-16
 //     picture: "https://dduportal.github.io/public/damien-duportal.jpg"
 //     bio: "Software Engineer focused on the 'Human stack' as well as the
 //         'Technical stacks'"
+//     birthdate: "09/12/1987"
+//     address:
+//         - "<i class='fa fa-home'></i> rue de MontMagny, 19, 4141 - Sprimont, Belgium"
+//     phonenumbers:
+//         - "<i class='fa fa-mobile-phone'></i> FR : +33(0)6 50 83 37 76"
+//         - "<i class='fa fa-mobile-phone'></i> BE : +32(0)4 72 97 20 06"
 
 ## Professional Experience
 
@@ -34,8 +40,8 @@ v2.0, 2019-10-16
 [NOTE]
 .Description
 ====
-Advocating for the Traefik Community: talking on conferences, giving workshops and training, 
-contributing to the software and its documentation, 
+Advocating for the Traefik Community: talking on conferences, giving workshops and training,
+contributing to the software and its documentation,
 participating on the community and contributing to Containous's Enterprise Software.
 ====
 
@@ -161,7 +167,7 @@ Use Jenkins for included workshop, and request to use an alternative (hosted) CI
 * icon:calendar[] `10/2016` (Promotion 2016/2017)
 ** link:https://dduportal.github.io/cours/cnam-docker-2018/[icon:slideshare[] Slides,window="_blank"]
 
-* icon:users[] link:http://www.cnam.fr/[Conservatoire National des Arts et Métiers (C.N.A.M.),windows="_blank"]
+* icon:users[] link:http://www.cnam.fr/[Conservatoire National des Arts et Métiers (C.N.A.M.),window="_blank"]
 
 [NOTE]
 .Description
@@ -203,51 +209,123 @@ Teaching basic concepts of High Availability to Master-1 students during a 20-ho
 Practical sessions around basic fault tolerance patterns.
 ====
 
-## Presentations and Writings
+## Speaker Experiences
 
-### Conference Presentations
+### Conferences
 
-### Writings
+* 🇬🇧 DevConf India (Bengaluru 2018)
+Traefik , The Cloud Native Edge Router
+https://devconfin2018.sched.com/event/FA7c/traefik-the-cloud-native-edge-router
+
+* 🇫🇷 Voxxed Luxembourg 2018
+10 choses (que tout le monde fait) à ne pas faire avec Jenkins
+https://www.youtube.com/watch?v=fll_-Hr5adk
+
+* 🇫🇷 Devoxx Paris 2018
+10 choses (que tout le monde fait) à ne pas faire avec Jenkins
+https://www.youtube.com/watch?v=_Zcsc15-y2A
+
+* 🇬🇧 DockerCon EU Copenhagen 2017
+Tales of Training: Scaling CodeLabs with Swarm Mode and Docker-Compose
+https://dockercon.docker.com/watch/rskvsKK4TvNEzXWKvjZpDX
+
+* 🇫🇷 DevDay Mons 2017
+Jenkins, la nouvelle génération
+https://www.youtube.com/watch?v=euvrKPttgjY
+
+* 🇫🇷 GDG Devfest Lille  2017
+Jenkins, BlueOcean and Declarative Pipelines
+http://dduportal.github.io/presentations/devfest-lille-2017/
+
+* 🇫🇷 DevoXX Paris 2017
+BoF Jenkins
+https://cfp.devoxx.fr/2017/speaker/damien_duportal.html
+
+* 🇫🇷 Mix-IT Lyon 2017
+Jenkins Declarative Pipeline
+https://mixitconf.org/2017/jenkins-moderne-et-livraison-continue-ecrivons-ensemble-des-pipeline-declaratifs-pour-votre-application
+
+* 🇫🇷 SnowCamp IO Grenoble 2017
+Bâtissons ensemble un pipeline avec Jenkins et Docker
+https://snowcamp2017.sched.com/speaker/damien.duportal
+
+* 🇬🇧 CD Summit Amsterdam 2016
+Let’s build a Jenkins Pipeline! (workshop)
+Scaling Jenkins in the Enterprise with CloudBees (talk)
+http://www.devopsconnect.com/cd-summit-amsterdam-16/
+
+* 🇫🇷 Voxxed Days Luxembourg 2016
+Jenkins 2.0 et Pipeline, que se passe t’il ?
+https://www.youtube.com/watch?v=kR-2unPD5wA
+
+* 🇬🇧 DockerCon Barcelona 2015:
+Breaking the Docker Rpi Challenge
+https://www.youtube.com/watch?v=vXRFHOcMd70
+
+* 🇫🇷 MixIT Lyon 2015:
+Portable Devbox using Docker
+https://www.infoq.com/fr/presentations/fabriquez-devbox-portable-docker
+
+* 🇬🇧 DockerCon Amsterdam 2014:
+Docker in a Big company
+https://www.youtube.com/watch?v=wZDmtbOjG_4
+
+
+### Meetups
+
+* 🇫🇷 Docker, Pets vs Cattles - Lyon 2014 http://dduportal.github.io/presentations/docker-meetup-lyon-20140528/
+
+* 🇬🇧 Rpi2 challenge status (2015) https://www.youtube.com/watch?v=1u2hO6-hV80
+
+* 🇫🇷 Introduction à Docker Swarm - Grenoble - 2016 https://www.meetup.com/fr-FR/Docker-Grenoble/events/222375065/?eventId=222375065
+
+* 🇬🇧 Collaborative Docker Swarm Workshop on Raspberry Pi - Brussels 2016 http://dduportal.github.io/presentations/docker-meetup-brussels-20160210/#1
+
+* 🇫🇷 Jenkins 2 & Pipeline - Lille - 2017 - https://www.meetup.com/fr-FR/ChtiJUG/events/236839680/
+
+* 🇬🇧 Jenkins & Blue Ocean - Brussels - 2017 - https://www.meetup.com/fr-FR/Belgium-Jenkins-Area-Meetup/events/239817576/?eventId=239817576
+
+* 🇫🇷 Docker on the CI/CD area - Lyon - 2017 - https://www.meetup.com/fr-FR/Docker-Lyon/events/240415824/?eventId=240415824&chapter_analytics_code=UA-48368587-1
+
+* 🇫🇷 Jenkins & Blue Ocean Workshop Zenika’s NightClazz - Lille - 2017 - https://www.meetup.com/fr-FR/NightClazz-Lille-by-Zenika/events/245281912/?eventId=245281912
+
+* 🇫🇷 WaJUG Jenkins & Blue Ocean Workshop - Liège - 2018 - http://www.wajug.be/talk/2018/jenkins-blue-ocean-workshop
 
 ### Others
 
-## Education 
+* icon:book[] Interviewed in the book link:https://www.packtpub.com/web-development/devops-paradox["DevOps Paradox",window="_blank"] by link:https://technologyconversations.com/about/[Viktor Farcic,window="_blank"] about "Empathy for the DevOps Culture".
 
-### I.N.S.A. Lyon: Master's Degree of IT Engineering"
+## Education
 
-* icon:graduation-cap[] `10/2010`
+### Master's Degree of IT Engineering"
+
+* icon:graduation-cap[] Diplomed in `10/2010`
 * icon:calendar-plus-o[] Started in `09/2005`
+* icon:university[] link:https://www.insa-lyon.fr/[Institut National des Sciences Appliquées (I.N.S.A.) Lyon,window="_blank"]
 
-description: "3 years studying software engineering and common IT, after
-2 years of 'common engineering' and sciences"
+[NOTE]
+.Description
+====
+* 2 years of common engineering and sciences (Math, Physic, Chemistery, Industrialization, IT, Humanities, Languages, Sports, etc.)
 
-### Pontificia Universidad de Valparaíso: Academic exchange
+* 3 years of software engineering
+====
 
-date:
-start: "06/2009"
-end: "12/2009"
-description: "6 month of academic exchange in IT Engineering"
+### 6 Months Academic exchange in Chile 🇨🇱
+
+* icon:calendar-minus-o[] `12/2009`
+* icon:calendar-plus-o[] `06/2009`
+
+* icon:university[] link:https://www.pucv.cl/[Pontificia Universidad de Valparaíso (P.U.C.V),window="_blank"]
+
+[NOTE]
+.Description
+====
+Academic exchange in Chile as part of my master softar engineering diploma,
+studying Software Engineering in Valparaíso University.
+====
 
 ## Skills
-
-// details:
-//     birthdate: "09/12/1987"
-//     address:
-//         - "<i class='fa fa-home'></i> rue de MontMagny, 19, 4141 - Sprimont, Belgium"
-//     phonenumbers:
-//         - "<i class='fa fa-mobile-phone'></i> FR : +33(0)6 50 83 37 76"
-//         - "<i class='fa fa-mobile-phone'></i> BE : +32(0)4 72 97 20 06"
-//     email: " damien.duportal@gmail.com"
-//     pro-email: " damien@containo.us"
-//     github:
-//         link: "https://github.com/dduportal"
-//         label: "<i class='fa fa-github'></i> My github"
-//     linkedin:
-//         link: "https://www.linkedin.com/in/damien-duportal-ab70b524"
-//         label: "<i class='fa fa-linkedin'></i> My linkedin"
-//     twitter:
-//         link: "https://twitter.com/DamienDuportal"
-//         label: "<i class='fa fa-twitter'></i> @DamienDuportal"
 
 // lists:
 //     - Languages:
