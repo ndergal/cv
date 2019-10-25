@@ -7,7 +7,7 @@ v2.0, 2019-10-16
 :email: damien.duportal+pro@gmail.com
 :sectlinks:
 
-## Personal
+## icon:user[] Personal
 
 * link:mailto:{email}[icon:envelope[] E-Mail]
 * link:https://github.com/dduportal[icon:github[] Github `dduportal`,window="_blank"]
@@ -27,15 +27,13 @@ v2.0, 2019-10-16
 //         - "<i class='fa fa-mobile-phone'></i> FR : +33(0)6 50 83 37 76"
 //         - "<i class='fa fa-mobile-phone'></i> BE : +32(0)4 72 97 20 06"
 
-## Professional Experience
+## icon:industry[] Professional Experience
 
-### Freelancing
-
-#### Developer Advocate for Traefik Project
+### Developer Advocate for Traefik Project as Freelancer
 
 * icon:calendar-plus-o[] From: `07/2018`
 * icon:calendar-minus-o[] Until: `12/2019`
-* icon:users[] link:https://containo./us[Containous,window="_blank"]
+* icon:users[] link:https://containo.us[Containous,window="_blank"]
 
 [NOTE]
 .Description
@@ -45,7 +43,7 @@ contributing to the software and its documentation,
 participating on the community and contributing to Containous's Enterprise Software.
 ====
 
-#### CloudBees: Training Infrastructure Consultance
+### Training Infrastructure Consultance as Freelancer
 
 * icon:calendar-plus-o[] From: `02/2019`
 * icon:calendar-minus-o[] Until: `09/2019`
@@ -59,9 +57,7 @@ Implied documentation and teaching current team on managing infrastructure with 
 and the training content framework with Asciidoctor, revealjs, Docker and GulpJS.
 ====
 
-### Jobs
-
-#### Training Engineer for Jenkins Project and Products
+### Training Engineer for Jenkins Project and Products
 
 * icon:calendar-plus-o[] From: `02/2016`
 * icon:calendar-minus-o[] Until: `06/2018`
@@ -77,7 +73,7 @@ Building and delivering training labs for self paced and trainer based.
 Part time consultancy for CloudBees Profesional Service team.
 ====
 
-#### Lead DevOps Engineer & Technical Advocate
+### Lead DevOps Engineer & Technical Advocate
 
 * icon:calendar-plus-o[] From: `07/2014`
 * icon:calendar-minus-o[] Until: `02/2016`
@@ -93,7 +89,7 @@ of first production deliveries. Part time as technical advocate to the
 internal forge to scale out to 8000 users.
 ====
 
-#### GIS Software Engineer / Platform Engineer
+### GIS Software Engineer / Platform Engineer
 
 * icon:calendar-plus-o[] From: `04/2011`
 * icon:calendar-minus-o[] Until: `07/2014`
@@ -110,7 +106,7 @@ Part time member of the 'Innovation Labs', teaching virtualizing
 products and building reusable tooling for developers.
 ====
 
-#### Platform Engineer
+### Platform Engineer
 
 * icon:calendar-plus-o[] From: `12/2010`
 * icon:calendar-minus-o[] Until: `04/2011`
@@ -124,7 +120,7 @@ platforms for French ministries, coordinating with production teams
 (internals and externals).
 ====
 
-#### GIS Software Engineering Internship
+### GIS Software Engineering Internship
 
 * icon:calendar-plus-o[] From: `04/2010`
 * icon:calendar-minus-o[] Until: `10/2010`
@@ -137,9 +133,9 @@ Integration of open-source GIS software inside IntelliGIS,
 a new product based on Oracle/ESRI and written in Java.
 ====
 
-### Teachings
+## icon:university[] Teachings
 
-#### Course: Introduction to Continous Integration and Deployment
+### Course: Introduction to Continous Integration and Deployment
 
 * icon:calendar[] `01/2019` (Promotion 2018/2019)
 ** link:https://dduportal.github.io/ensg-ci-cd/2018-2019/#/introduction_au_ci_cd[icon:slideshare[] Slides,window="_blank"]
@@ -159,7 +155,7 @@ A 2-days introduction to Continous Integration and Delivery (C.I/C.D.) practises
 Use Jenkins for included workshop, and request to use an alternative (hosted) CI for the exam (Gitlab CI, TravisCI, Github Action, Bitbucket Pipeline, CircleCI, etc.).
 ====
 
-#### Course: Introduction to Docker Containers
+### Course: Introduction to Docker Containers
 
 * icon:calendar[] `10/2017` (Promotion 2017/2018)
 ** link:https://dduportal.github.io/cours/cnam-docker-2017/[icon:slideshare[] Slides,window="_blank"]
@@ -175,7 +171,7 @@ Use Jenkins for included workshop, and request to use an alternative (hosted) CI
 Introduction to Docker and Containers to Master-2 or equivalent student, whom are taking studies after working a few years (3 hours night course).
 ====
 
-#### Course: Architecture of Geographical Information Systems
+### Course: Architecture of Geographical Information Systems
 
 * icon:calendar[] `12/2015` (Promotion 2015/2016)
 ** link:https://dduportal.github.io/ensg-ci-cd/2018-2019/#/introduction_au_ci_cd[icon:slideshare[] Slides,window="_blank"]
@@ -192,7 +188,7 @@ Teaching GIS basics to Master-2 students for a 50-hours grade. Covering basics o
 Practical session around Geoserver to understand fault tolerance.
 ====
 
-#### Course: Introduction to Highly Available Architectures
+### Course: Introduction to Highly Available Architectures
 
 * icon:calendar[] `09/2014` (Promotion Grenoble 2014/2015)
 
@@ -209,7 +205,7 @@ Teaching basic concepts of High Availability to Master-1 students during a 20-ho
 Practical sessions around basic fault tolerance patterns.
 ====
 
-## Speaker Experiences
+## icon:bullhorn[] Speaker Experiences
 
 ### Conferences
 
@@ -271,7 +267,7 @@ Docker in a Big company
 https://www.youtube.com/watch?v=wZDmtbOjG_4
 
 
-### Meetups
+### icon:meetup[] Meetups
 
 * 🇫🇷 Docker, Pets vs Cattles - Lyon 2014 http://dduportal.github.io/presentations/docker-meetup-lyon-20140528/
 
@@ -291,11 +287,13 @@ https://www.youtube.com/watch?v=wZDmtbOjG_4
 
 * 🇫🇷 WaJUG Jenkins & Blue Ocean Workshop - Liège - 2018 - http://www.wajug.be/talk/2018/jenkins-blue-ocean-workshop
 
-### Others
+## icon:bars[] Other Experiences
 
 * icon:book[] Interviewed in the book link:https://www.packtpub.com/web-development/devops-paradox["DevOps Paradox",window="_blank"] by link:https://technologyconversations.com/about/[Viktor Farcic,window="_blank"] about "Empathy for the DevOps Culture".
 
-## Education
+* icon:code-fork[] link:https://asciidoctor.org/contributors/[Contributor] of the link:https://asciidoctor.org/[AsciiDoctor] project: Maintainer of the link:https://github.com/asciidoctor/docker-asciidoctor[AsciiDoctor Docker image].
+
+## icon:graduation-cap[] Education
 
 ### Master's Degree of IT Engineering"
 
@@ -325,13 +323,49 @@ Academic exchange in Chile as part of my master softar engineering diploma,
 studying Software Engineering in Valparaíso University.
 ====
 
-## Skills
+## icon:sticky-note[] Skills
 
-// lists:
-//     - Languages:
-//         - French (native): 100
-//         - English (865 TOEIC): 95
-//         - Spanish (6 months in Chile): 60
+### icon:globe[] Languages
+
+* 🇫🇷 French: Native
+
+* 🇬🇧/ 🇺🇸 English: Professional usage (5 years in international companies with US English use as only language, public speaking experience, 865 TOEIC)
+
+* 🇪🇸 Spanish: Middle level (6 months in Chile, university grade)
+
+### icon:handshake-o[] Methodology
+
+* Test Driven Development
+* Behavior Driven Development
+* Continous Integration / Deployment / Delivery
+* Collaborative Development: Code Review & Pair Programming
+
+### icon:wrench[] Technical
+
+* 🐳 Docker mastery:
+** Docker mentor
+** Public Speaker on DockerCons
+** Contributor
+** Official Image Maintainer for Traefik and Asciidoctor and `dduportal/bats` projects
+** Usage in production since version `0.8` (including Compose, Swarm and registry)
+
+* &#9096; Kubernetes enthusiast: Build and contributed to Helm Charts, Customer cases at Containous with bare metal Kubernetes, public speaking and writing about Kubernetes Ingress and network model.
+
+* icon:code-fork[] SCM daily usage: SVN (2008-2011), Mercurial (2010-2014), Git (2011-today)
+
+* Jenkins mastery
+
+* icon:linux[] Linux/Unix Infrastructure Background
+** Include CentOS, RedHat, Debian, Alpine Linux ... and icon:apple[] macOS Server
+** My first Linux was Yellow Dog Linux (ref. link:https://fr.wikipedia.org/wiki/Yellowdog_Updater,_Modified[`yum`]) on a Macintosh PowerPC
+** Bash enthusiast (with testing with link:https://github.com/dduportal-dockerfiles/bats/[Bats])
+
+* Hashicorp Stack enthusiast:
+** Vagrant contributor
+** Golden Image Infrasturcture Patterns: Using Packer/Terraform since 2012/2014
+
+* Frontend development experience:
+
 //     - Soft skills:
 //         - Enthusiastic teacher: 95
 //         - Curious learner: 90
