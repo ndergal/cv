@@ -7,6 +7,16 @@ v2.0, 2019-10-16
 :email: damien.duportal+pro@gmail.com
 :sectlinks:
 
+====
+This Curriculum Vitae is available:
+
+* In HTML format for web browsers at link:https://dduportal.github.io/cv/[window="_blank"]
+// * In PDF format for offline reading or printing, at link:https://dduportal.github.io/cv/cv-damien-duportal.pdf[window="_blank"]
+
+* The source code is also available at link:https://github.com/dduportal/cv[window="_blank"] +
+(if you want to use it for yourself, or if you are curious about the methodology).
+====
+
 ## icon:user[] Personal
 
 * link:mailto:{email}[icon:envelope[] E-Mail]
