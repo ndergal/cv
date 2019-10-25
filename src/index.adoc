@@ -209,83 +209,145 @@ Practical sessions around basic fault tolerance patterns.
 
 ### Conferences
 
+* 🇫🇷 Devoxx FR 2019
+"Le seigneur des conteneurs : un atelier de migration vers Kubernetes et Traefik"
+https://cfp.devoxx.fr/2019/talk/YMY-8034/Le_seigneur_des_conteneurs_:_un_atelier_de_migration_vers_Kubernetes_et_Traefik
+
+* 🇫🇷 Voxxed Luxembourg 2019
+"Edge Routing et HTTPS pour tous: Traefik en pratique"
+https://www.youtube.com/watch?v=Da7bWh1CfxA
+
+* 🇬🇧 DevOpsPro Vilnius 2019
+"`This Website is Not Secured`. You Had One Job: Configuring the Edge Proxy!"
+https://devopspro.lt/2019/damien-duportal/index.html
+
+* 🇬🇧 Config Management Camp 2019
+https://cfgmgmtcamp.eu/schedule/monday/traefik/
+
+* 🇬🇧 Devoxx BE 2018
+https://www.youtube.com/watch?v=AqiGcLsVMeI&t=1s
+
+* 🇬🇧 Jenkins/DevOpsWorld 2018 EU (Nice)
+https://devopsworldjenkinsworld2018a.sched.com
+
 * 🇬🇧 DevConf India (Bengaluru 2018)
-Traefik , The Cloud Native Edge Router
+"Traefik , The Cloud Native Edge Router"
 https://devconfin2018.sched.com/event/FA7c/traefik-the-cloud-native-edge-router
 
 * 🇫🇷 Voxxed Luxembourg 2018
-10 choses (que tout le monde fait) à ne pas faire avec Jenkins
+"10 choses (que tout le monde fait) à ne pas faire avec Jenkins"
 https://www.youtube.com/watch?v=fll_-Hr5adk
 
 * 🇫🇷 Devoxx Paris 2018
-10 choses (que tout le monde fait) à ne pas faire avec Jenkins
+"10 choses (que tout le monde fait) à ne pas faire avec Jenkins"
 https://www.youtube.com/watch?v=_Zcsc15-y2A
 
-* 🇬🇧 DockerCon EU Copenhagen 2017
-Tales of Training: Scaling CodeLabs with Swarm Mode and Docker-Compose
-https://dockercon.docker.com/watch/rskvsKK4TvNEzXWKvjZpDX
-
-* 🇫🇷 DevDay Mons 2017
-Jenkins, la nouvelle génération
+* 🇫🇷 DevDay Mons 2018
+"Jenkins, la nouvelle génération"
 https://www.youtube.com/watch?v=euvrKPttgjY
 
+* 🇬🇧 Jenkins World US (San Francisco) 2017
+https://jenkinsworld20162017.sched.com/
+
+* 🇬🇧 DockerCon EU Copenhagen 2017
+"Tales of Training: Scaling CodeLabs with Swarm Mode and Docker-Compose"
+https://dockercon.docker.com/watch/rskvsKK4TvNEzXWKvjZpDX
+
 * 🇫🇷 GDG Devfest Lille  2017
-Jenkins, BlueOcean and Declarative Pipelines
+"Jenkins, BlueOcean and Declarative Pipelines"
 http://dduportal.github.io/presentations/devfest-lille-2017/
 
 * 🇫🇷 DevoXX Paris 2017
-BoF Jenkins
+"Bird of Feather - Jenkins"
 https://cfp.devoxx.fr/2017/speaker/damien_duportal.html
 
 * 🇫🇷 Mix-IT Lyon 2017
-Jenkins Declarative Pipeline
+"Jenkins Declarative Pipeline"
 https://mixitconf.org/2017/jenkins-moderne-et-livraison-continue-ecrivons-ensemble-des-pipeline-declaratifs-pour-votre-application
 
 * 🇫🇷 SnowCamp IO Grenoble 2017
-Bâtissons ensemble un pipeline avec Jenkins et Docker
+"Bâtissons ensemble un pipeline avec Jenkins et Docker"
 https://snowcamp2017.sched.com/speaker/damien.duportal
 
 * 🇬🇧 CD Summit Amsterdam 2016
-Let’s build a Jenkins Pipeline! (workshop)
-Scaling Jenkins in the Enterprise with CloudBees (talk)
+"Let’s build a Jenkins Pipeline! (workshop)"
+"Scaling Jenkins in the Enterprise with CloudBees (talk)"
 http://www.devopsconnect.com/cd-summit-amsterdam-16/
 
 * 🇫🇷 Voxxed Days Luxembourg 2016
-Jenkins 2.0 et Pipeline, que se passe t’il ?
+"Jenkins 2.0 et Pipeline, que se passe t’il ?"
 https://www.youtube.com/watch?v=kR-2unPD5wA
 
 * 🇬🇧 DockerCon Barcelona 2015:
-Breaking the Docker Rpi Challenge
+"Breaking the Docker Rpi Challenge"
 https://www.youtube.com/watch?v=vXRFHOcMd70
 
 * 🇫🇷 MixIT Lyon 2015:
-Portable Devbox using Docker
+"Portable Devbox using Docker"
 https://www.infoq.com/fr/presentations/fabriquez-devbox-portable-docker
 
 * 🇬🇧 DockerCon Amsterdam 2014:
-Docker in a Big company
+"Docker in a Big company"
 https://www.youtube.com/watch?v=wZDmtbOjG_4
 
 
 ### icon:meetup[] Meetups
 
-* 🇫🇷 Docker, Pets vs Cattles - Lyon 2014 http://dduportal.github.io/presentations/docker-meetup-lyon-20140528/
+* 🇬🇧 Belgium Kubernetes Meetup - Leuven - 2019
+"Traefik v2.0 & Maesh: Look Ma’, routing HTTP and TCP with no Hands!"
+https://www.meetup.com/fr-FR/kubernetes-belgium/events/264700528/
 
-* 🇬🇧 Rpi2 challenge status (2015) https://www.youtube.com/watch?v=1u2hO6-hV80
+* 🇬🇧 DevOps Malmö Meetup - Malmö - 2019
+"Look Ma’, a Dynamic Edge Proxy with HTTP, TCP and no Hands!"
+https://www.meetup.com/fr-FR/DevOpsMalmo/events/263834695/
 
-* 🇫🇷 Introduction à Docker Swarm - Grenoble - 2016 https://www.meetup.com/fr-FR/Docker-Grenoble/events/222375065/?eventId=222375065
+* 🇫🇷 Docker Birthday \#6 (2019): "How do you docker ?" Luxembourg Edition!
+"Smart Routing et HTTPS pour tous : Traefik en action !"
+https://events.docker.com/events/details/docker-luxembourg-presents-docker-birthday-6-how-do-you-docker-luxembourg-edition/#/
 
-* 🇬🇧 Collaborative Docker Swarm Workshop on Raspberry Pi - Brussels 2016 http://dduportal.github.io/presentations/docker-meetup-brussels-20160210/#1
+* 🇫🇷 Docker Meetup Marseille - 2019
+"Smart Routing et HTTPS pour tous : Traefik en action !"
+https://www.meetup.com/fr-FR/Docker-Marseille/events/258666309/
+
+* 🇫🇷 Meetup SFEIR Lille - 2019
+"A la découverte de Traefik 2.0"
+https://www.meetup.com/fr-FR/SFEIR-Lille/events/262018005/
+
+* 🇫🇷 Meetup GDG Lille - 2019
+"Tests de bout en bout en shell avec “bats”, pour CLI, containers et clusters"
+https://www.meetup.com/fr-FR/GDG-Lille/events/260272230/
+
+* 🇫🇷 WaJUG Jenkins & Blue Ocean Workshop - Liège - 2018 - http://www.wajug.be/talk/2018/jenkins-blue-ocean-workshop
+
+* 🇫🇷 Jenkins & Blue Ocean Workshop Zenika’s NightClazz - Lille - 2017 - https://www.meetup.com/fr-FR/NightClazz-Lille-by-Zenika/events/245281912/?eventId=245281912
+
+* 🇫🇷 Docker on the CI/CD area - Lyon - 2017 - https://www.meetup.com/fr-FR/Docker-Lyon/events/240415824/?eventId=240415824&chapter_analytics_code=UA-48368587-1
 
 * 🇫🇷 Jenkins 2 & Pipeline - Lille - 2017 - https://www.meetup.com/fr-FR/ChtiJUG/events/236839680/
 
 * 🇬🇧 Jenkins & Blue Ocean - Brussels - 2017 - https://www.meetup.com/fr-FR/Belgium-Jenkins-Area-Meetup/events/239817576/?eventId=239817576
 
-* 🇫🇷 Docker on the CI/CD area - Lyon - 2017 - https://www.meetup.com/fr-FR/Docker-Lyon/events/240415824/?eventId=240415824&chapter_analytics_code=UA-48368587-1
+* 🇫🇷 Introduction à Docker Swarm - Grenoble - 2016 https://www.meetup.com/fr-FR/Docker-Grenoble/events/222375065/?eventId=222375065
 
-* 🇫🇷 Jenkins & Blue Ocean Workshop Zenika’s NightClazz - Lille - 2017 - https://www.meetup.com/fr-FR/NightClazz-Lille-by-Zenika/events/245281912/?eventId=245281912
+* 🇬🇧 Collaborative Docker Swarm Workshop on Raspberry Pi - Brussels 2016 http://dduportal.github.io/presentations/docker-meetup-brussels-20160210/#1
 
-* 🇫🇷 WaJUG Jenkins & Blue Ocean Workshop - Liège - 2018 - http://www.wajug.be/talk/2018/jenkins-blue-ocean-workshop
+* 🇬🇧 Rpi2 challenge status (2015) https://www.youtube.com/watch?v=1u2hO6-hV80
+
+* 🇫🇷 Docker, Pets vs Cattles - Lyon 2014 http://dduportal.github.io/presentations/docker-meetup-lyon-20140528/
+
+### icon:youtube[] Webinars
+
+* 🇬🇧 Traefik Online Webinar - 2019
+"Back to Traefik 2.0 - Gigawatts of Routing Power"
+https://www.youtube.com/watch?v=s8qYWPC6YdI&t=1226
+
+* 🇬🇧 Containous Online Webinar
+"Traefik Enterprise Edition Demo"
+https://www.youtube.com/watch?v=joOuUy1ZD7E
+
+* 🇬🇧 Traefik Online Webinar - 2019
+"Keep the Routing Simple"
+https://www.youtube.com/watch?v=UEB0SFaCpUY
 
 ## icon:bars[] Other Experiences
 
