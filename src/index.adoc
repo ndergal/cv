@@ -349,11 +349,40 @@ https://www.youtube.com/watch?v=joOuUy1ZD7E
 "Keep the Routing Simple"
 https://www.youtube.com/watch?v=UEB0SFaCpUY
 
-## icon:bars[] Other Experiences
+## icon:pencil-square[] Writing Experiences
 
 * icon:book[] Interviewed in the book link:https://www.packtpub.com/web-development/devops-paradox["DevOps Paradox",window="_blank"] by link:https://technologyconversations.com/about/[Viktor Farcic,window="_blank"] about "Empathy for the DevOps Culture".
 
-* icon:code-fork[] link:https://asciidoctor.org/contributors/[Contributor] of the link:https://asciidoctor.org/[AsciiDoctor] project: Maintainer of the link:https://github.com/asciidoctor/docker-asciidoctor[AsciiDoctor Docker image].
+* icon:pencil[] Blog Post 🇬🇧 link:https://blog.containo.us/traefik-and-docker-a-discussion-with-docker-captain-bret-fisher-7f0b9a54ff88["Traefik and Docker: A Discussion with Docker Captain, Bret Fisher",window="_blank"]
+on link:https://blog.containo.us/[Containous Blog,window="_blank"]
+
+* icon:pencil[] Blog Post 🇬🇧 Co-Author of link:https://blog.containo.us/announcing-maesh-a-lightweight-and-simpler-service-mesh-made-by-the-traefik-team-cb866edc6f29["Announcing Maesh, a Lightweight and Simpler Service Mesh Made by the Traefik Team",window="_blank"] on link:https://blog.containo.us/[Containous Blog,window="_blank"]
+
+* icon:pencil[] Blog Post 🇬🇧 link-:https://d2iq.com/blog/from-zero-to-hero-in-minutes-with-konvoy-s-built-in-traefik-for-kubernetes["From Zero to Hero in minutes with Konvoy’s built-in Traefik for Kubernetes",window="_blank"]
+on link:https://d2iq.com/blog[D2IQ (formerly Mesosphere) Blog,window="_blank"]
+
+* icon:pencil[] Blog Post Serie 🇬🇧 "The Journey to Traefik Enterprise Edition" on link:https://blog.containo.us/[Containous Blog,window="_blank"]:
+** link:https://blog.containo.us/the-journey-to-traefik-enterprise-edition-join-the-free-early-access-program-b73e07d62f30[Part 1 - "Join the Free Early Access Program",window="_blank"]
+** link:https://blog.containo.us/the-journey-to-traefik-enterprise-edition-product-evaluation-4828508cbc8[Part 2 - "Product Evaluation",window="_blank"]
+** link:https://blog.containo.us/the-journey-to-traefik-enterprise-edition-high-availability-7421718be2d8[Part 3 - "High Availability",window="_blank"]
+** link:https://blog.containo.us/the-journey-to-traefik-enterprise-edition-https-for-everyone-90a36b33600[Part 5 - "HTTPS for Everyone",window="_blank"]
+** link:https://blog.containo.us/the-journey-to-traefik-enterprise-edition-smooth-operations-2591bb7ff1fe[Part 6 - "Smooth Operations",window="_blank"]
+
+* icon:pencil[] Blog Post 🇬🇧 link:https://vmblog.com/archive/2019/05/07/the-road-to-a-better-kubernetes-ingress.aspx["The Road to a Better Kubernetes Ingress",window="_blank"]
+on link:https://vmblog.com/home.aspx[VMBlog.com,window="_blank"]
+
+* icon:pencil[] Blog Post 🇫🇷 link:https://www.journaldunet.com/solutions/expert/66182/le-devops---nouveau-levier-technologique-au-service-des-reseaux-sociaux.shtml["Le DevOps : nouveau levier technologique au service des réseaux sociaux",window="_blank"]
+on link:https://www.journaldunet.com/["Le Journal du Net (J.D.N.)",window="_blank"]
+
+## icon:code-fork[] Open Source Projects Experiences
+
+* link:https://asciidoctor.org/contributors/[Contributor,window="_blank"]
+of the link:https://asciidoctor.org/[AsciiDoctor,window="_blank"] project:
+Maintainer of the link:https://github.com/asciidoctor/docker-asciidoctor[AsciiDoctor Docker image,window="_blank"]
+
+* Contributor of the link:https://github.com/containous/traefik[Traefik] project,
+focused on documentation, Docker Image for official Docker Hub (Linux, ARM, Windows)
+and usability.
 
 ## icon:graduation-cap[] Education
 
