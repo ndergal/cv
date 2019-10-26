@@ -1,6 +1,6 @@
 = My Curriculum Vitae/Resume
 
-// TODO: Badges
+image:https://travis-ci.com/dduportal/cv.svg?branch=master["Build Status", link="https://travis-ci.com/dduportal/cv"]
 
 This repository contains my curriculum vitae.
 
