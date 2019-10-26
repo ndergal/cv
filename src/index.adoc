@@ -279,64 +279,95 @@ Practical sessions around basic fault tolerance patterns.
   | icon:youtube[] link:https://www.youtube.com/watch?v=AqiGcLsVMeI[Session Recording,window="_blank"]
   | icon:code[] link:https://github.com/containous/slides/tree/devoxx-be-2018[Source,window="_blank"]
 
-* image:uk.png[width=15] Jenkins/DevOpsWorld 2018 EU (Nice)
-https://devopsworldjenkinsworld2018a.sched.com
+#### Jenkins/DevOpsWorld 2018 EU (Nice)
 
-* image:uk.png[width=15] DevConf India (Bengaluru 2018)
-"Traefik , The Cloud Native Edge Router"
-https://devconfin2018.sched.com/event/FA7c/traefik-the-cloud-native-edge-router
+* image:uk.png[width=15] `10 things we all do, but shouldn’t do with Jenkins`
 
-* image:fr.png[width=15] Voxxed Luxembourg 2018
-"10 choses (que tout le monde fait) à ne pas faire avec Jenkins"
-https://www.youtube.com/watch?v=fll_-Hr5adk
+* icon:slideshare[] link:https://static.sched.com/hosted_files/devopsworldjenkinsworld2018a/d6/JenkinsWorld%20-%20Jenkins%20-%20things%20not%20to%20do.pdf[Slides,window="_blank"]
+  | icon:info-circle[] link:https://devopsworldjenkinsworld2018a.sched.com/event/FIoz/10-things-we-all-do-but-shouldnt-do-with-jenkins[Session Information,window="_blank"]
 
-* image:fr.png[width=15] Devoxx Paris 2018
-"10 choses (que tout le monde fait) à ne pas faire avec Jenkins"
-https://www.youtube.com/watch?v=_Zcsc15-y2A
+#### DevConf India (Bengaluru 2018)
 
-* image:fr.png[width=15] DevDay Mons 2018
-"Jenkins, la nouvelle génération"
-https://www.youtube.com/watch?v=euvrKPttgjY
+* image:uk.png[width=15] `Traefik , The Cloud Native Edge Router`
 
-* image:uk.png[width=15] Jenkins World US (San Francisco) 2017
-https://jenkinsworld20162017.sched.com/
+* icon:info-circle[] link:https://devconfin2018.sched.com/event/FA7c/traefik-the-cloud-native-edge-router[Session Information,window="_blank"]
 
-* image:uk.png[width=15] DockerCon EU Copenhagen 2017
-"Tales of Training: Scaling CodeLabs with Swarm Mode and Docker-Compose"
-https://dockercon.docker.com/watch/rskvsKK4TvNEzXWKvjZpDX
+#### Voxxed Luxembourg 2018
 
-* image:fr.png[width=15] GDG Devfest Lille 2017
-"Jenkins, BlueOcean and Declarative Pipelines"
-http://dduportal.github.io/presentations/devfest-lille-2017/
+* image:fr.png[width=15] `10 choses (que tout le monde fait) à ne pas faire avec Jenkins`
 
-* image:fr.png[width=15] DevoXX Paris 2017
+* icon:youtube[] link:https://www.youtube.com/watch?v=fll_-Hr5adk[Session Recording,window="_blank"]
+
+#### Devoxx France (Paris) 2018
+
+* image:fr.png[width=15] `10 choses (que tout le monde fait) à ne pas faire avec Jenkins`
+
+* icon:slideshare[] link:https://speakerdeck.com/alecharp/jenkins-10-choses-que-tout-le-monde-fait-quil-ne-faut-pas-faire[Slides,window="_blank"]
+  | icon:youtube[] link:https://www.youtube.com/watch?v=_Zcsc15-y2A[Session Recording,window="_blank"]
+
+#### DevDay Mons 2018
+
+* image:fr.png[width=15] `Jenkins, la nouvelle génération`
+
+* icon:youtube[] link:https://www.youtube.com/watch?v=euvrKPttgjY[Session Recording,window="_blank"]
+
+#### Jenkins World US (San Francisco) 2017
+
+* icon:info-circle[] link:https://jenkinsworld20162017.sched.com/damien.duportal[Session Information,window="_blank"]
+
+#### DockerCon EU (Copenhagen) 2017
+
+* image:uk.png[width=15] `Tales of Training: Scaling CodeLabs with Swarm Mode and Docker-Compose`
+
+* icon:youtube[] link:https://dockercon.docker.com/watch/rskvsKK4TvNEzXWKvjZpDX[Session Recording,window="_blank"]
+
+#### GDG Devfest Lille 2017
+
+* image:fr.png[width=15] `Jenkins, BlueOcean and Declarative Pipelines`
+
+* icon:slideshare[] link:* icon:youtube[] link:http://dduportal.github.io/presentations/devfest-lille-2017/[Slides,window="_blank"]
+
+#### Devoxx France (Paris) 2017
+
+* image:fr.png[width=15] 
 "Bird of Feather - Jenkins"
 https://cfp.devoxx.fr/2017/speaker/damien_duportal.html
 
-* image:fr.png[width=15] Mix-IT Lyon 2017
+#### Mix-IT Lyon 2017
+
+* image:fr.png[width=15] 
 "Jenkins Declarative Pipeline"
 https://mixitconf.org/2017/jenkins-moderne-et-livraison-continue-ecrivons-ensemble-des-pipeline-declaratifs-pour-votre-application
 
-* image:fr.png[width=15] SnowCamp IO Grenoble 2017
+#### SnowCamp IO Grenoble 2017
+
+* image:fr.png[width=15] 
 "Bâtissons ensemble un pipeline avec Jenkins et Docker"
 https://snowcamp2017.sched.com/speaker/damien.duportal
 
-* image:fr.png[width=15] Voxxed Days Luxembourg 2016
+#### Voxxed Days Luxembourg 2016
+
+* image:fr.png[width=15] 
 "Jenkins 2.0 et Pipeline, que se passe t’il ?"
 https://www.youtube.com/watch?v=kR-2unPD5wA
 
-* image:uk.png[width=15] DockerCon Barcelona 2015:
+#### DockerCon Barcelona 2015
+
+* image:uk.png[width=15] 
 "Breaking the Docker Rpi Challenge"
 https://www.youtube.com/watch?v=vXRFHOcMd70
 
-* image:fr.png[width=15] MixIT Lyon 2015:
+#### MixIT Lyon 2015
+
+* image:fr.png[width=15] 
 "Portable Devbox using Docker"
 https://www.infoq.com/fr/presentations/fabriquez-devbox-portable-docker
 
-* image:uk.png[width=15] DockerCon Amsterdam 2014:
+#### DockerCon Amsterdam 2014
+
+* image:uk.png[width=15] 
 "Docker in a Big company"
 https://www.youtube.com/watch?v=wZDmtbOjG_4
-
 
 ### icon:meetup[] Meetups
 
