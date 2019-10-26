@@ -325,106 +325,106 @@ Practical sessions around basic fault tolerance patterns.
 
 * image:fr.png[width=15] `Jenkins, BlueOcean and Declarative Pipelines`
 
-* icon:slideshare[] link:* icon:youtube[] link:http://dduportal.github.io/presentations/devfest-lille-2017/[Slides,window="_blank"]
+* icon:slideshare[] link:http://dduportal.github.io/presentations/devfest-lille-2017/[Slides,window="_blank"]
 
 #### Devoxx France (Paris) 2017
 
-* image:fr.png[width=15] 
-"Bird of Feather - Jenkins"
-https://cfp.devoxx.fr/2017/speaker/damien_duportal.html
+* image:fr.png[width=15] `Bird of Feather - Jenkins`
+
+* icon:info-circle[] link:https://cfp.devoxx.fr/2017/speaker/damien_duportal.html[Session Information,window="_blank"]
 
 #### Mix-IT Lyon 2017
 
-* image:fr.png[width=15] 
-"Jenkins Declarative Pipeline"
-https://mixitconf.org/2017/jenkins-moderne-et-livraison-continue-ecrivons-ensemble-des-pipeline-declaratifs-pour-votre-application
+* image:fr.png[width=15] `Jenkins Declarative Pipeline`
+
+* icon:info-circle[] link:https://mixitconf.org/2017/jenkins-moderne-et-livraison-continue-ecrivons-ensemble-des-pipeline-declaratifs-pour-votre-application[Session Information,window="_blank"]
 
 #### SnowCamp IO Grenoble 2017
 
-* image:fr.png[width=15] 
-"Bâtissons ensemble un pipeline avec Jenkins et Docker"
-https://snowcamp2017.sched.com/speaker/damien.duportal
+* image:fr.png[width=15] `Bâtissons ensemble un pipeline avec Jenkins et Docker`
+
+* icon:info-circle[] link:https://snowcamp2017.sched.com/speaker/damien.duportal[Session Information,window="_blank"]
 
 #### Voxxed Days Luxembourg 2016
 
-* image:fr.png[width=15] 
-"Jenkins 2.0 et Pipeline, que se passe t’il ?"
-https://www.youtube.com/watch?v=kR-2unPD5wA
+* image:fr.png[width=15] `Jenkins 2.0 et Pipeline, que se passe t’il ?`
+
+* icon:youtube[] link:https://www.youtube.com/watch?v=kR-2unPD5wA[Session Recording,window="_blank"]
 
 #### DockerCon Barcelona 2015
 
-* image:uk.png[width=15] 
-"Breaking the Docker Rpi Challenge"
-https://www.youtube.com/watch?v=vXRFHOcMd70
+* image:uk.png[width=15] `Breaking the Docker Rpi Challenge`
+
+* icon:youtube[] link:https://www.youtube.com/watch?v=vXRFHOcMd70[Session Recording,window="_blank"]
 
 #### MixIT Lyon 2015
 
-* image:fr.png[width=15] 
-"Portable Devbox using Docker"
-https://www.infoq.com/fr/presentations/fabriquez-devbox-portable-docker
+* image:fr.png[width=15] `Portable Devbox using Docker
+
+* icon:youtube[] link:https://www.infoq.com/fr/presentations/fabriquez-devbox-portable-docker[Session Recording,window="_blank"]
 
 #### DockerCon Amsterdam 2014
 
-* image:uk.png[width=15] 
-"Docker in a Big company"
-https://www.youtube.com/watch?v=wZDmtbOjG_4
+* image:uk.png[width=15] `Docker in a Big company`
+
+* icon:youtube[] link:https://www.youtube.com/watch?v=wZDmtbOjG_4[Session Recording,window="_blank"]
 
 ### icon:meetup[] Meetups
 
 * image:uk.png[width=15] Belgium Kubernetes Meetup - Leuven - 2019
-"Traefik v2.0 & Maesh: Look Ma’, routing HTTP and TCP with no Hands!"
-https://www.meetup.com/fr-FR/kubernetes-belgium/events/264700528/
+`Traefik v2.0 & Maesh: Look Ma’, routing HTTP and TCP with no Hands!`
+https://www.meetup.com/fr-FR/kubernetes-belgium/events/264700528/[window="_blank"]
 
 * image:uk.png[width=15] DevOps Malmö Meetup - Malmö - 2019
-"Look Ma’, a Dynamic Edge Proxy with HTTP, TCP and no Hands!"
-https://www.meetup.com/fr-FR/DevOpsMalmo/events/263834695/
+`Look Ma’, a Dynamic Edge Proxy with HTTP, TCP and no Hands!`
+https://www.meetup.com/fr-FR/DevOpsMalmo/events/263834695/[window="_blank"]
 
 * image:fr.png[width=15] Docker Birthday \#6 (2019): "How do you docker ?" Luxembourg Edition!
-"Smart Routing et HTTPS pour tous : Traefik en action !"
-https://events.docker.com/events/details/docker-luxembourg-presents-docker-birthday-6-how-do-you-docker-luxembourg-edition/#/
+`Smart Routing et HTTPS pour tous : Traefik en action !`
+https://events.docker.com/events/details/docker-luxembourg-presents-docker-birthday-6-how-do-you-docker-luxembourg-edition/#/[window="_blank"]
 
 * image:fr.png[width=15] Docker Meetup Marseille - 2019
-"Smart Routing et HTTPS pour tous : Traefik en action !"
-https://www.meetup.com/fr-FR/Docker-Marseille/events/258666309/
+`Smart Routing et HTTPS pour tous : Traefik en action !`
+https://www.meetup.com/fr-FR/Docker-Marseille/events/258666309/[window="_blank"]
 
 * image:fr.png[width=15] Meetup SFEIR Lille - 2019
-"A la découverte de Traefik 2.0"
-https://www.meetup.com/fr-FR/SFEIR-Lille/events/262018005/
+`A la découverte de Traefik 2.0`
+https://www.meetup.com/fr-FR/SFEIR-Lille/events/262018005/[window="_blank"]
 
 * image:fr.png[width=15] Meetup GDG Lille - 2019
-"Tests de bout en bout en shell avec “bats”, pour CLI, containers et clusters"
-https://www.meetup.com/fr-FR/GDG-Lille/events/260272230/
+`Tests de bout en bout en shell avec “bats”, pour CLI, containers et clusters`
+https://www.meetup.com/fr-FR/GDG-Lille/events/260272230/[window="_blank"]
 
-* image:fr.png[width=15] WaJUG Jenkins & Blue Ocean Workshop - Liège - 2018 - http://www.wajug.be/talk/2018/jenkins-blue-ocean-workshop
+* image:fr.png[width=15] WaJUG `Jenkins & Blue Ocean Workshop` - Liège - 2018 - http://www.wajug.be/talk/2018/jenkins-blue-ocean-workshop[window="_blank"]
 
-* image:fr.png[width=15] Jenkins & Blue Ocean Workshop Zenika’s NightClazz - Lille - 2017 - https://www.meetup.com/fr-FR/NightClazz-Lille-by-Zenika/events/245281912/?eventId=245281912
+* image:fr.png[width=15] Zenika’s NightClazz `Jenkins & Blue Ocean Workshop` - Lille - 2017 - https://www.meetup.com/fr-FR/NightClazz-Lille-by-Zenika/events/245281912/?eventId=245281912[window="_blank"]
 
-* image:fr.png[width=15] Docker on the CI/CD area - Lyon - 2017 - https://www.meetup.com/fr-FR/Docker-Lyon/events/240415824/?eventId=240415824&chapter_analytics_code=UA-48368587-1
+* image:fr.png[width=15] Docker Meetup Lyon `Docker on the CI/CD area` - 2017 - https://www.meetup.com/fr-FR/Docker-Lyon/events/240415824/?eventId=240415824&chapter_analytics_code=UA-48368587-1[window="_blank"]
 
-* image:fr.png[width=15] Jenkins 2 & Pipeline - Lille - 2017 - https://www.meetup.com/fr-FR/ChtiJUG/events/236839680/
+* image:fr.png[width=15] ChtiJUG Lille `Jenkins 2 & Pipeline` - 2017 - https://www.meetup.com/fr-FR/ChtiJUG/events/236839680/[window="_blank"]
 
-* image:uk.png[width=15] Jenkins & Blue Ocean - Brussels - 2017 - https://www.meetup.com/fr-FR/Belgium-Jenkins-Area-Meetup/events/239817576/?eventId=239817576
+* image:uk.png[width=15] Brussels JUG `Jenkins & Blue Ocean` - 2017 - https://www.meetup.com/fr-FR/Belgium-Jenkins-Area-Meetup/events/239817576/?eventId=239817576[window="_blank"]
 
-* image:fr.png[width=15] Introduction à Docker Swarm - Grenoble - 2016 https://www.meetup.com/fr-FR/Docker-Grenoble/events/222375065/?eventId=222375065
+* image:fr.png[width=15] Docker Meetup Grenoble `Introduction à Docker Swarm` - 2016 https://www.meetup.com/fr-FR/Docker-Grenoble/events/222375065/?eventId=222375065[window="_blank"]
 
-* image:uk.png[width=15] Collaborative Docker Swarm Workshop on Raspberry Pi - Brussels 2016 http://dduportal.github.io/presentations/docker-meetup-brussels-20160210/#1
+* image:uk.png[width=15] Docker Meetup Brussels `Collaborative Docker Swarm Workshop on Raspberry Pi` - 2016 http://dduportal.github.io/presentations/docker-meetup-brussels-20160210[window="_blank"]
 
-* image:uk.png[width=15] Rpi2 challenge status (2015) https://www.youtube.com/watch?v=1u2hO6-hV80
+* image:uk.png[width=15] Online Docker Meetup `Rpi2 challenge status` - 2015 https://www.youtube.com/watch?v=1u2hO6-hV80[window="_blank"]
 
-* image:fr.png[width=15] Docker, Pets vs Cattles - Lyon 2014 http://dduportal.github.io/presentations/docker-meetup-lyon-20140528/
+* image:fr.png[width=15] Docker Meetup Lyon `Docker, Pets vs Cattles` - 2014 http://dduportal.github.io/presentations/docker-meetup-lyon-20140528/[window="_blank"]
 
 ### icon:youtube[] Webinars
 
 * image:uk.png[width=15] Traefik Online Webinar - 2019
-"Back to Traefik 2.0 - Gigawatts of Routing Power"
+`Back to Traefik 2.0 - Gigawatts of Routing Power`
 https://www.youtube.com/watch?v=s8qYWPC6YdI&t=1226
 
 * image:uk.png[width=15] Containous Online Webinar
-"Traefik Enterprise Edition Demo"
+`Traefik Enterprise Edition Demo`
 https://www.youtube.com/watch?v=joOuUy1ZD7E
 
 * image:uk.png[width=15] Traefik Online Webinar - 2019
-"Keep the Routing Simple"
+`Keep the Routing Simple`
 https://www.youtube.com/watch?v=UEB0SFaCpUY
 
 ## icon:pencil-square[] Writing Experiences
@@ -464,7 +464,7 @@ and usability.
 
 ## icon:graduation-cap[] Education
 
-### Master's Degree of IT Engineering"
+### Master Degree of IT Engineering
 
 * icon:graduation-cap[] Diplomed in `10/2010`
 * icon:calendar-plus-o[] Started in `09/2005`
