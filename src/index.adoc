@@ -2,7 +2,7 @@
 Damien DUPORTAL
 v2.0, 2019-10-16
 :toc: left
-:toclevels: 3
+:toclevels: 2
 :icons: font
 :email: damien.duportal+pro@gmail.com
 :sectlinks:
@@ -239,20 +239,37 @@ Practical sessions around basic fault tolerance patterns.
 
 ### Conferences
 
-* image:fr.png[width=15] Devoxx FR 2019
-"Le seigneur des conteneurs : un atelier de migration vers Kubernetes et Traefik"
-https://cfp.devoxx.fr/2019/talk/YMY-8034/Le_seigneur_des_conteneurs_:_un_atelier_de_migration_vers_Kubernetes_et_Traefik
+#### Devoxx FR 2019
 
-* image:fr.png[width=15] Voxxed Luxembourg 2019
-"Edge Routing et HTTPS pour tous: Traefik en pratique"
-https://www.youtube.com/watch?v=Da7bWh1CfxA
+* image:fr.png[width=15] `Le seigneur des conteneurs : un atelier de migration vers Kubernetes et Traefik`
 
-* image:uk.png[width=15] DevOpsPro Vilnius 2019
-"`This Website is Not Secured`. You Had One Job: Configuring the Edge Proxy!"
-https://devopspro.lt/2019/damien-duportal/index.html
+* icon:slideshare[] link:https://containous.github.io/slides/devoxx-fr-2019/[Slides,window="_blank"]
+  | icon:info-circle[] link:https://cfp.devoxx.fr/2019/talk/YMY-8034/Le_seigneur_des_conteneurs_:_un_atelier_de_migration_vers_Kubernetes_et_Traefik[Session Information,window="_blank"]
+  | icon:code[] link:https://github.com/containous/slides/tree/devoxx-fr-2019[Source,window="_blank"]
 
-* image:uk.png[width=15] Config Management Camp 2019
-https://cfgmgmtcamp.eu/schedule/monday/traefik/
+#### Voxxed Luxembourg 2019
+
+* image:fr.png[width=15] `Edge Routing et HTTPS pour tous: Traefik en pratique`
+
+* icon:slideshare[] link:https://containous.github.io/slides/voxxed-lux-2019[Slides,window="_blank"]
+  | icon:youtube[] link:https://www.youtube.com/watch?v=Da7bWh1CfxA[Session Recording,window="_blank"]
+  | icon:code[] link:https://github.com/containous/slides/tree/voxxed-lux-2019[Source,window="_blank"]
+
+#### DevOpsPro Vilnius 2019
+
+* image:uk.png[width=15] `"This Website is Not Secured". You Had One Job: Configuring the Edge Proxy!`
+
+* icon:slideshare[] link:https://containous.github.io/slides/devopspro-vilnius-2019[Slides,window="_blank"]
+  | icon:info-circle[] link:https://devopspro.lt/2019/damien-duportal/index.html[Session Information,window="_blank"]
+  | icon:code[] link:https://github.com/containous/slides/tree/devopspro-vilnius-2019[Source,window="_blank"]
+
+#### Config Management Camp 2019
+
+* image:uk.png[width=15] `You Had One Job: Configuring the Edge Router`
+
+* icon:slideshare[] link:https://containous.github.io/slides/cfgmgmtcamp-2019[Slides,window="_blank"]
+  | icon:info-circle[] link:https://cfgmgmtcamp.eu/ghent2019/schedule/monday/traefik/[Session Information,window="_blank"]
+  | icon:code[] link:https://github.com/containous/slides/tree/cfgmgmtcamp-2019[Source,window="_blank"]
 
 * image:uk.png[width=15] Devoxx BE 2018
 https://www.youtube.com/watch?v=AqiGcLsVMeI&t=1s
