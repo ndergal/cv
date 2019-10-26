@@ -3,7 +3,7 @@ services:
   - docker
 
 script:
-  - docker-compose up
+  - make all
 
 before_deploy:
   - export DEPLOY_DIR=./deploy/
