@@ -21,15 +21,19 @@ This Curriculum Vitae is available:
 
 ## icon:user[] Personal
 
-* link:mailto:{email}[icon:envelope[] E-Mail]
-* link:https://github.com/dduportal[icon:github[] Github `dduportal`,window="_blank"]
-* link:https://twitter.com/DamienDuportal[icon:twitter[] `@DamienDuportal`,window="_blank"]
-* link:https://www.linkedin.com/in/damien-duportal-ab70b524/[icon:linkedin[] Linkedin Profile,window="_blank"]
-* icon:map-marker[] `rue de MontMagny, 19, 4141 - Sprimont, Belgium` image:be.png[width=15]
-* icon:birthday-cake[] `09/12/1987`
-* icon:phone[] Phone:
-** image:be.png[width=15] `+32(0)4 72 97 20 06`
-** image:fr.png[width=15] `+33(0)6 50 83 37 76`
+Whoami:: Damien DUPORTAL - icon:birthday-cake[] `09/12/1987`
+
+Contact & Social:: link:mailto:{email}[icon:envelope[] E-Mail `{email}`]
+  | link:https://github.com/dduportal[icon:github[] Github `dduportal`,window="_blank"]
+  | link:https://twitter.com/DamienDuportal[icon:twitter[] `@DamienDuportal`,window="_blank"]
+  | link:https://www.linkedin.com/in/damien-duportal-ab70b524/[icon:linkedin[] Linkedin Profile,window="_blank"]
+
+Location:: icon:map-marker[] `rue de MontMagny, 19, 4141 - Sprimont, Belgium` image:be.png[width=15]
+
+Phone icon:phone[]::
+
+* image:be.png[width=15] `+32(0)4 72 97 20 06`
+* image:fr.png[width=15] `+33(0)6 50 83 37 76`
 
 ## icon:industry[] Professional Experience
 
@@ -404,11 +408,11 @@ and usability.
 * 3 years of software engineering
 ====
 
-### 6 Months Academic exchange in Chile image:cl.png[width=15]
+### 6 Months Academic Exchange
 
 * icon:calendar-minus-o[] `12/2009`
 * icon:calendar-plus-o[] `06/2009`
-
+* icon:map-marker[] Chile image:cl.png[width=15]
 * icon:university[] link:https://www.pucv.cl/[Pontificia Universidad de Valparaíso (P.U.C.V),window="_blank"]
 
 [NOTE]
