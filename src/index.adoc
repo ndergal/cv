@@ -37,7 +37,7 @@ Phone icon:phone[]::
 
 ## icon:industry[] Professional Experience
 
-### Developer Advocate for link:https://traefik.io[Traefik Project] as Freelancer
+### Developer Advocate for the Traefik Project as Freelancer
 
 icon:calendar[] From: `07/2018` until `12/2019`
 
@@ -239,12 +239,12 @@ Practical sessions around basic fault tolerance patterns.
 
 ### Conferences
 
-#### Devoxx FR 2019
+#### Devoxx France (Paris) 2019
 
 * image:fr.png[width=15] `Le seigneur des conteneurs : un atelier de migration vers Kubernetes et Traefik`
 
 * icon:slideshare[] link:https://containous.github.io/slides/devoxx-fr-2019/[Slides,window="_blank"]
-  | icon:info-circle[] link:https://cfp.devoxx.fr/2019/talk/YMY-8034/Le_seigneur_des_conteneurs_:_un_atelier_de_migration_vers_Kubernetes_et_Traefik[Session Information,window="_blank"]
+  | icon:info-circle[] link:https://cfp.devoxx.fr/2019/talk/YMY-8034/Le_seigneur_des_conteneurs:_un_atelier_de_migration_vers_Kubernetes_et_Traefik[Session Information,window="_blank"]
   | icon:code[] link:https://github.com/containous/slides/tree/devoxx-fr-2019[Source,window="_blank"]
 
 #### Voxxed Luxembourg 2019
@@ -271,8 +271,13 @@ Practical sessions around basic fault tolerance patterns.
   | icon:info-circle[] link:https://cfgmgmtcamp.eu/ghent2019/schedule/monday/traefik/[Session Information,window="_blank"]
   | icon:code[] link:https://github.com/containous/slides/tree/cfgmgmtcamp-2019[Source,window="_blank"]
 
-* image:uk.png[width=15] Devoxx BE 2018
-https://www.youtube.com/watch?v=AqiGcLsVMeI&t=1s
+#### Devoxx Belgium (Antwerpen) 2018
+
+* image:uk.png[width=15] `Traefik: A Scalable and Highly Available Edge Router`
+
+* icon:slideshare[] link:https://containous.github.io/slides/devoxx-be-2018[Slides,window="_blank"]
+  | icon:youtube[] link:https://www.youtube.com/watch?v=AqiGcLsVMeI[Session Recording,window="_blank"]
+  | icon:code[] link:https://github.com/containous/slides/tree/devoxx-be-2018[Source,window="_blank"]
 
 * image:uk.png[width=15] Jenkins/DevOpsWorld 2018 EU (Nice)
 https://devopsworldjenkinsworld2018a.sched.com
@@ -315,11 +320,6 @@ https://mixitconf.org/2017/jenkins-moderne-et-livraison-continue-ecrivons-ensemb
 * image:fr.png[width=15] SnowCamp IO Grenoble 2017
 "Bâtissons ensemble un pipeline avec Jenkins et Docker"
 https://snowcamp2017.sched.com/speaker/damien.duportal
-
-* image:uk.png[width=15] CD Summit Amsterdam 2016
-"Let’s build a Jenkins Pipeline! (workshop)"
-"Scaling Jenkins in the Enterprise with CloudBees (talk)"
-http://www.devopsconnect.com/cd-summit-amsterdam-16/
 
 * image:fr.png[width=15] Voxxed Days Luxembourg 2016
 "Jenkins 2.0 et Pipeline, que se passe t’il ?"
