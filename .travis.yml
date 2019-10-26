@@ -13,7 +13,7 @@ before_deploy:
   - git fetch --unshallow origin "${DEPLOY_BRANCH}" 2>/dev/null  || git fetch origin
   - git worktree add -b "${DEPLOY_BRANCH}" "${DEPLOY_DIR}" origin/"${DEPLOY_BRANCH}" 2>/dev/null || git worktree add --force "${DEPLOY_DIR}" origin/"${DEPLOY_BRANCH}" 2>/dev/null
   - mkdir -p "${DEPLOY_DIR}/${TRAVIS_BRANCH}"
-  - cp ./src/export/* "${DEPLOY_DIR}/${TRAVIS_BRANCH}/"
+  - cp -r ./src/export/* "${DEPLOY_DIR}/${TRAVIS_BRANCH}/"
 
 deploy:
   - provider: pages
