@@ -37,25 +37,33 @@ Phone icon:phone[]::
 
 ## icon:industry[] Professional Experience
 
-### Developer Advocate for Traefik Project as Freelancer
+### Developer Advocate for link:https://traefik.io[Traefik Project] as Freelancer
 
-* icon:calendar-plus-o[] From: `07/2018`
-* icon:calendar-minus-o[] Until: `12/2019`
-* icon:users[] link:https://containo.us[Containous,window="_blank"]
+icon:calendar[] From: `07/2018` until `12/2019`
+
+icon:users[] link:https://containo.us[Containous,window="_blank"] - Remote
 
 [NOTE]
 .Description
 ====
-Advocating for the Traefik Community: talking on conferences, giving workshops and training,
-contributing to the software and its documentation,
-participating on the community and contributing to Containous's Enterprise Software.
+* Advocating for the link:https://traefik.io[Traefik] Community:
+** Conferences talks / workshops, writing Blog Post
+** Contributing to the Open Source project software
+** Driving Issues triage and Community Forum
+** Working on the User Experience: Documentation, packaging, installation, Helm Chart maintenance,
+platform validations
+
+* Partipating on other Containous products
+** User experience, documentation, website and packaging for link:https://containo.us/traefikee/[Traefik Enterprise Edition]
+** PreSales and Solution Architecturing for customerds during early phases of link:https://containo.us/traefikee/[Traefik Enterprise Edition]
+** User experience, documentation, website and packaging for https://mae.sh[Maesh Service Mesh]
 ====
 
 ### Training Infrastructure Consultance as Freelancer
 
-* icon:calendar-plus-o[] From: `02/2019`
-* icon:calendar-minus-o[] Until: `09/2019`
-* icon:users[] link:https://www.cloudbees.com/[CloudBees,window="_blank"]
+icon:calendar[] From: `02/2019` until `09/2019`
+
+icon:users[] link:https://www.cloudbees.com/[CloudBees,window="_blank"] - Remote
 
 [NOTE]
 .Description
@@ -65,11 +73,25 @@ Implied documentation and teaching current team on managing infrastructure with 
 and the training content framework with Asciidoctor, revealjs, Docker and GulpJS.
 ====
 
+### Jenkins Infrastructure Consultance as Freelancer
+
+icon:calendar[] From: `06/2019` until `09/2019`
+
+icon:users[] link:https://www.synolia.com/[Synolia,window="_blank"] - Remote + Onsite at Lyon, France
+
+[NOTE]
+.Description
+====
+* Jenkins infrastructure audit & good practises
+* Teaching the team to autonomously switch to SSH Agents with Docker capabilities
+* CI/CD Pipeline audit
+====
+
 ### Training Engineer for Jenkins Project and Products
 
-* icon:calendar-plus-o[] From: `02/2016`
-* icon:calendar-minus-o[] Until: `06/2018`
-* icon:users[] link:https://www.cloudbees.com/[CloudBees,window="_blank"]
+icon:calendar[] From: `02/2016` until `06/2018`
+
+icon:users[] link:https://www.cloudbees.com/[CloudBees,window="_blank"] - Remote
 
 [NOTE]
 .Description
@@ -83,9 +105,9 @@ Part time consultancy for CloudBees Profesional Service team.
 
 ### Lead DevOps Engineer & Technical Advocate
 
-* icon:calendar-plus-o[] From: `07/2014`
-* icon:calendar-minus-o[] Until: `02/2016`
-* icon:users[] link:https://worldline.com/[Atos Worldline,window="_blank"]
+icon:calendar[] From: `07/2014` until `02/2016`
+
+icon:users[] link:https://worldline.com/[Atos Worldline,window="_blank"] - Lyon & Lille (France), Brussels (Belgium)
 
 [NOTE]
 .Description
@@ -99,9 +121,9 @@ internal forge to scale out to 8000 users.
 
 ### GIS Software Engineer / Platform Engineer
 
-* icon:calendar-plus-o[] From: `04/2011`
-* icon:calendar-minus-o[] Until: `07/2014`
-* icon:users[] link:https://worldline.com/[Atos Worldline,window="_blank"]
+icon:calendar[] From: `04/2011` until `07/2014`
+
+icon:users[] link:https://worldline.com/[Atos Worldline,window="_blank"] - Lyon, France
 
 [NOTE]
 .Description
@@ -116,9 +138,9 @@ products and building reusable tooling for developers.
 
 ### Platform Engineer
 
-* icon:calendar-plus-o[] From: `12/2010`
-* icon:calendar-minus-o[] Until: `04/2011`
-* icon:users[] link:https://worldline.com/[Atos Worldline,window="_blank"]
+icon:calendar-plus-o[] From: `12/2010` until `04/2011`
+
+icon:users[] link:https://worldline.com/[Atos Worldline,window="_blank"] - Lyon, France
 
 [NOTE]
 .Description
@@ -148,10 +170,10 @@ a new product based on Oracle/ESRI and written in Java.
 * icon:calendar[] `01/2019` (Promotion 2018/2019)
 ** link:https://dduportal.github.io/ensg-ci-cd/2018-2019/#/introduction_au_ci_cd[icon:slideshare[] Slides,window="_blank"]
 
-* icon:calendar[]  `12/2017` (Promotion 2017/2018)
+* icon:calendar[] `12/2017` (Promotion 2017/2018)
 ** link:https://dduportal.github.io/ensg-ci-cd/cicd-ensg-2017-dec/[icon:slideshare[] Slides,window="_blank"]
 
-* icon:calendar[]  `02/2017` (Promotion 2016/2017)
+* icon:calendar[] `02/2017` (Promotion 2016/2017)
 ** link:https://dduportal.github.io/ensg-ci-cd/cicd-ensg-2017/slides.html[icon:slideshare[] Slides,window="_blank"]
 
 * icon:users[] link:http://www.ensg.eu/[École Nationale des Sciences Géographiques (E.N.S.G.),window="_blank"]
@@ -184,7 +206,7 @@ Introduction to Docker and Containers to Master-2 or equivalent student, whom ar
 * icon:calendar[] `12/2015` (Promotion 2015/2016)
 ** link:https://dduportal.github.io/ensg-ci-cd/2018-2019/#/introduction_au_ci_cd[icon:slideshare[] Slides,window="_blank"]
 
-* icon:calendar[]  `12/2014` (Promotion 2014/2015)
+* icon:calendar[] `12/2014` (Promotion 2014/2015)
 ** link:https://dduportal.github.io/ensg-ci-cd/cicd-ensg-2017-dec/[icon:slideshare[] Slides,window="_blank"]
 
 * icon:users[] link:http://www.ensg.eu/[École Nationale des Sciences Géographiques (E.N.S.G.),window="_blank"]
@@ -261,7 +283,7 @@ https://jenkinsworld20162017.sched.com/
 "Tales of Training: Scaling CodeLabs with Swarm Mode and Docker-Compose"
 https://dockercon.docker.com/watch/rskvsKK4TvNEzXWKvjZpDX
 
-* image:fr.png[width=15] GDG Devfest Lille  2017
+* image:fr.png[width=15] GDG Devfest Lille 2017
 "Jenkins, BlueOcean and Declarative Pipelines"
 http://dduportal.github.io/presentations/devfest-lille-2017/
 
@@ -428,9 +450,9 @@ studying Software Engineering in Valparaíso University.
 
 * image:fr.png[width=15] French: Native
 
-* image:uk.png[width=15] / image:us.png[width=15]  English: Professional usage (5 years in international companies with US English use as only language, public speaking experience, 865 TOEIC)
+* image:uk.png[width=15] / image:us.png[width=15] English: Professional usage (5 years in international companies with US English use as only language, public speaking experience, 865 TOEIC)
 
-* image:es.png[width=15]  Spanish: Middle level (6 months in Chile, university grade)
+* image:es.png[width=15] Spanish: Middle level (6 months in Chile, university grade)
 
 ### icon:handshake-o[] Methodology
 
