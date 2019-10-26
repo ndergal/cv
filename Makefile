@@ -13,7 +13,7 @@ endif
 
 SOURCE_URL = $(REPOSITORY_BASE_URL)/tree/$(TRAVIS_BRANCH)
 
-ifneq (TRAVIS_BRANCH, "master")
+ifneq ($(TRAVIS_BRANCH), master)
 CV_URL = https://$(REPOSITORY_OWNER).github.io/$(REPOSITORY_NAME)/$(TRAVIS_BRANCH)
 else
 CV_URL = https://$(REPOSITORY_OWNER).github.io/$(REPOSITORY_NAME)
@@ -44,6 +44,20 @@ clean:
 # test:
 # 	echo test
 
-# .PHONY: deploy
-# deploy:
-# 	echo deploy
+.PHONY: deploy
+deploy:
+	rm -rf $(DEPLOY_DIR)
+	git config remote.origin.fetch '+refs/heads/*:refs/remotes/origin/*'
+	git fetch --unshallow origin $(DEPLOY_BRANCH) || git fetch origin --prune
+	git worktree remove $(DEPLOY_DIR) --force 2>/dev/null || true
+	git worktree add -b $(DEPLOY_BRANCH) $(DEPLOY_DIR) origin/$(DEPLOY_BRANCH) 2>/dev/null \
+		|| git worktree add --force $(DEPLOY_DIR) origin/$(DEPLOY_BRANCH) 2>/dev/null
+ifneq ($(TRAVIS_BRANCH), master)
+	echo $(TRAVIS_BRANCH)
+	mkdir -p $(DEPLOY_DIR)/$(TRAVIS_BRANCH)
+	cp -r ./dist/ $(DEPLOY_DIR)/$(TRAVIS_BRANCH)/
+else
+	# Master at the root
+	cp -r ./dist/* $(DEPLOY_DIR)/
+endif
+	@echo "Deploy Done"
