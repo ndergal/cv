@@ -19,21 +19,23 @@ else
 CV_URL = https://$(REPOSITORY_OWNER).github.io/$(REPOSITORY_NAME)
 endif
 
-
 export CV_URL REPOSITORY_URL REPOSITORY_BASE_URL TRAVIS_BRANCH CURRENT_UID
 
 .PHONY: all
 all: clean build test
 
+$(DIST_DIR):
+	mkdir -p $(DIST_DIR)
+
 .PHONY: build
 build: html pdf
 
 .PHONY: html
-html:
+html: $(DIST_DIR)
 	docker-compose up cv
 
 .PHONY: pdf
-pdf:
+pdf: $(DIST_DIR)
 	docker-compose up pdf
 
 .PHONY: clean
