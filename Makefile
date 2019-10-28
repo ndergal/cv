@@ -4,6 +4,8 @@ DIST_DIR ?= $(CURDIR)/dist
 REPOSITORY_NAME ?= cv
 REPOSITORY_OWNER ?= dduportal
 REPOSITORY_BASE_URL ?= https://github.com/$(REPOSITORY_OWNER)/$(REPOSITORY_NAME)
+OWNER_NAME ?= "Damien DUPORTAL"
+SHORT_OWNER_NAME ?= $(shell echo "$(OWNER_NAME)" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
 
 ### TRAVIS_BRANCH == TRAVIS_TAG when a build is triggered by a tag as per https://docs.travis-ci.com/user/environment-variables/
 ifndef TRAVIS_BRANCH
@@ -19,7 +21,8 @@ else
 CV_URL = https://$(REPOSITORY_OWNER).github.io/$(REPOSITORY_NAME)
 endif
 
-export CV_URL REPOSITORY_URL REPOSITORY_BASE_URL TRAVIS_BRANCH CURRENT_UID
+export CV_URL REPOSITORY_URL REPOSITORY_BASE_URL TRAVIS_BRANCH \
+	CURRENT_UID SOURCE_URL SHORT_OWNER_NAME
 
 .PHONY: all
 all: clean build test
@@ -32,7 +35,7 @@ build: html pdf
 
 .PHONY: html
 html: $(DIST_DIR)
-	docker-compose up cv
+	docker-compose up html
 
 .PHONY: pdf
 pdf: $(DIST_DIR)

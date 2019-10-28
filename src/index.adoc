@@ -12,10 +12,10 @@ v2.0, 2019-10-16
 ====
 This Curriculum Vitae is available:
 
-* In HTML format for web browsers at link:https://dduportal.github.io/cv/[window="_blank"]
-* In PDF format for offline reading or printing, at link:https://dduportal.github.io/cv/cv-damien-duportal.pdf[window="_blank"]
+* In HTML format for web browsers at link:{cv-url}[window="_blank"]
+* In PDF format for offline reading or printing, at link:{cv-url}/cv-{short-owner-name}.pdf[window="_blank"]
 
-* The source code is also available at link:https://github.com/dduportal/cv[window="_blank"] +
+* The source code is also available at link:{source-url}[window="_blank"] +
 (if you want to use it for yourself, or if you are curious about the methodology).
 ====
 
@@ -28,7 +28,7 @@ Contact & Social:: link:mailto:{email}[icon:envelope[] E-Mail `{email}`]
   | link:https://twitter.com/DamienDuportal[icon:twitter[] `@DamienDuportal`,window="_blank"]
   | link:https://www.linkedin.com/in/damien-duportal-ab70b524/[icon:linkedin[] Linkedin Profile,window="_blank"]
 
-Location:: icon:map-marker[] `rue de MontMagny, 19, 4141 - Sprimont, Belgium` image:be.png[width=15]
+Location:: icon:map-marker[] `rue de Montmagny 19, 4140 - Sprimont, Belgium` image:be.png[width=15]
 
 Phone icon:phone[]::
 
@@ -359,7 +359,7 @@ Practical sessions around basic fault tolerance patterns.
 
 #### MixIT Lyon 2015
 
-* image:fr.png[width=15] `Portable Devbox using Docker
+* image:fr.png[width=15] `Portable Devbox using Docker`
 
 * icon:youtube[] link:https://www.infoq.com/fr/presentations/fabriquez-devbox-portable-docker[Session Recording,window="_blank"]
 
