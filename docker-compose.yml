@@ -8,6 +8,8 @@ services:
       -a cv-url="${CV_URL}"
       -a source-url="${SOURCE_URL}"
       -a short-owner-name="${SHORT_OWNER_NAME}"
+      -a toc=left
+      -a toclevels=2
       -o /dist/index.html
     user: ${CURRENT_UID}
     volumes:

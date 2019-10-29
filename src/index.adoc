@@ -1,8 +1,6 @@
 # Curriculum Vitae | Damien DUPORTAL
 Damien DUPORTAL
 v2.0, 2019-10-16
-:toc: left
-:toclevels: 2
 :icons: font
 :email: damien.duportal+pro@gmail.com
 :sectlinks:
