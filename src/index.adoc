@@ -1,537 +1,159 @@
-# Curriculum Vitae | Damien DUPORTAL
-Damien DUPORTAL
-v2.0, 2019-10-16
+# Curriculum Vitae | Nacer DERGAL
+Nacer DERGAL
+v1.0, 2019-12-12
 :icons: font
-:email: damien.duportal+pro@gmail.com
+:email: dergal:nacer@outlook.fr
 :sectlinks:
 :imagesdir: ./images/
 :data-uri:
 
-====
-This Curriculum Vitae is available:
-
-* In HTML format for web browsers at link:{cv-url}[window="_blank"]
-* In PDF format for offline reading or printing, at link:{cv-url}/cv-{short-owner-name}.pdf[window="_blank"]
-
-* The source code is also available at link:{source-url}[window="_blank"] +
-(if you want to use it for yourself, or if you are curious about the methodology).
-====
-
 ## icon:user[] Personal
 
-Whoami:: Damien DUPORTAL - icon:birthday-cake[] `09/12/1987`
-
 Contact & Social:: link:mailto:{email}[icon:envelope[] E-Mail `{email}`]
-  | link:https://github.com/dduportal[icon:github[] Github `dduportal`,window="_blank"]
-  | link:https://twitter.com/DamienDuportal[icon:twitter[] `@DamienDuportal`,window="_blank"]
-  | link:https://www.linkedin.com/in/damien-duportal-ab70b524/[icon:linkedin[] Linkedin Profile,window="_blank"]
+  | link:https://github.com/ndergal[icon:github[] Github `ndergal`,window="_blank"]
+  | link:https://www.linkedin.com/in/nacer-dergal-a63514162/[icon:linkedin[] Linkedin Profile,window="_blank"]
 
-Location:: icon:map-marker[] `rue de Montmagny 19, 4140 - Sprimont, Belgium` image:be.png[width=15]
+|===
+|Whoami |Location |Phone icon:phone[]
 
-Phone icon:phone[]::
+|Nacer DERGAL - icon:birthday-cake[] `08/26/1993`
+|icon:map-marker[] `Quebec,QC` image:ca.png[width=15]
+|image:fr.png[width=15] `+33(0)7 81 25 18 44`
 
-* image:be.png[width=15] `+32(0)4 72 97 20 06`
-* image:fr.png[width=15] `+33(0)6 50 83 37 76`
+|===
 
 ## icon:industry[] Professional Experience
 
-### Developer Advocate for the Traefik Project as Freelancer
+### Software Developer
 
-icon:calendar[] From: `07/2018` until `12/2019`
+icon:calendar[] From: `09/2018` until `Present`
 
-icon:users[] link:https://containo.us[Containous,window="_blank"] - Remote
-
-[NOTE]
-.Description
-====
-* Advocating for the link:https://traefik.io[Traefik] Community:
-** Conferences talks / workshops, writing Blog Post
-** Contributing to the Open Source project software
-** Driving Issues triage and Community Forum
-** Working on the User Experience: Documentation, packaging, installation, Helm Chart maintenance,
-platform validations
-
-* Partipating on other Containous products
-** User experience, documentation, website and packaging for link:https://containo.us/traefikee/[Traefik Enterprise Edition]
-** PreSales and Solution Architecturing for customerds during early phases of link:https://containo.us/traefikee/[Traefik Enterprise Edition]
-** User experience, documentation, website and packaging for https://mae.sh[Maesh Service Mesh]
-====
-
-### Training Infrastructure Consultance as Freelancer
-
-icon:calendar[] From: `02/2019` until `09/2019`
-
-icon:users[] link:https://www.cloudbees.com/[CloudBees,window="_blank"] - Remote
+icon:users[] link:https://www.exfo.com[EXFO,window="_blank"] - Onsite at Quebec, Canada image:ca.png[width=15]
 
 [NOTE]
 .Description
 ====
-Consultancy for knowledge transfer and technical support for the training infrastructure.
-Implied documentation and teaching current team on managing infrastructure with Terraform, Docker and Compose on AWS
-and the training content framework with Asciidoctor, revealjs, Docker and GulpJS.
+* Embedded software development in C#
+* Agile Methodology
+* Computer Vision
+* Driver development
 ====
 
-### Jenkins Infrastructure Consultance as Freelancer
+### System integration/ DevOps engineer co-worker
 
-icon:calendar[] From: `06/2019` until `09/2019`
+icon:calendar[] From: `09/2015` until `09/2018`
 
-icon:users[] link:https://www.synolia.com/[Synolia,window="_blank"] - Remote + Onsite at Lyon, France
+icon:users[] link:http://www.ign.fr/[IGN,window="_blank"] - Onsite at Champs-Sur-Marne, France image:fr.png[width=15]
 
 [NOTE]
 .Description
 ====
-* Jenkins infrastructure audit & good practises
-* Teaching the team to autonomously switch to SSH Agents with Docker capabilities
-* CI/CD Pipeline audit
+* Implementation and administration of a virtualized software forge on Docker
+* Automation of project creation
+* Implementation of web application
+* Website creation
+* Deployment of a secured Docker Registry
+* Creation of a Restful API from a database describing a road network with its traffic topology
 ====
-
-### Training Engineer for Jenkins Project and Products
-
-icon:calendar[] From: `02/2016` until `06/2018`
-
-icon:users[] link:https://www.cloudbees.com/[CloudBees,window="_blank"] - Remote
-
-[NOTE]
-.Description
-====
-Providing training to CloudBees customers as part of the
-service offers. Maintaining the training catalog, building, driving and
-contributing to a collaborative training as a code content base.
-Building and delivering training labs for self paced and trainer based.
-Part time consultancy for CloudBees Profesional Service team.
-====
-
-### Lead DevOps Engineer & Technical Advocate
-
-icon:calendar[] From: `07/2014` until `02/2016`
-
-icon:users[] link:https://worldline.com/[Atos Worldline,window="_blank"] - Lyon & Lille (France), Brussels (Belgium)
-
-[NOTE]
-.Description
-====
-Part time bootstraping the usage of Docker within
-Worldline by pushing an internal collaborative initiative.
-Part time as technical 'firefighter', generally to support birth pains
-of first production deliveries. Part time as technical advocate to the
-internal forge to scale out to 8000 users.
-====
-
-### GIS Software Engineer / Platform Engineer
-
-icon:calendar[] From: `04/2011` until `07/2014`
-
-icon:users[] link:https://worldline.com/[Atos Worldline,window="_blank"] - Lyon, France
-
-[NOTE]
-.Description
-====
-Operational leading of a GIS platform for the French
-Geographical Institute. Project management of new applications
-integration, maintaining in operational state, coordinating with
-external companies, maintaining state-of-the-art and innovative tooling.
-Part time member of the 'Innovation Labs', teaching virtualizing
-products and building reusable tooling for developers.
-====
-
-### Platform Engineer
-
-icon:calendar-plus-o[] From: `12/2010` until `04/2011`
-
-icon:users[] link:https://worldline.com/[Atos Worldline,window="_blank"] - Lyon, France
-
-[NOTE]
-.Description
-====
-Maintaining in operational state a set of heterogenous
-platforms for French ministries, coordinating with production teams
-(internals and externals).
-====
-
-### GIS Software Engineering Internship
-
-* icon:calendar-plus-o[] From: `04/2010`
-* icon:calendar-minus-o[] Until: `10/2010`
-* icon:users[] link:https://www.sword-group.com/[Sword Group,window="_blank"]
-
-[NOTE]
-.Description
-====
-Integration of open-source GIS software inside IntelliGIS,
-a new product based on Oracle/ESRI and written in Java.
-====
-
-## icon:university[] Teachings
-
-### Course: Introduction to Continous Integration and Deployment
-
-* icon:calendar[] `01/2019` (Promotion 2018/2019)
-** link:https://dduportal.github.io/ensg-ci-cd/2018-2019/#/introduction_au_ci_cd[icon:slideshare[] Slides,window="_blank"]
-
-* icon:calendar[] `12/2017` (Promotion 2017/2018)
-** link:https://dduportal.github.io/ensg-ci-cd/cicd-ensg-2017-dec/[icon:slideshare[] Slides,window="_blank"]
-
-* icon:calendar[] `02/2017` (Promotion 2016/2017)
-** link:https://dduportal.github.io/ensg-ci-cd/cicd-ensg-2017/slides.html[icon:slideshare[] Slides,window="_blank"]
-
-* icon:users[] link:http://www.ensg.eu/[École Nationale des Sciences Géographiques (E.N.S.G.),window="_blank"]
-
-[NOTE]
-.Description
-====
-A 2-days introduction to Continous Integration and Delivery (C.I/C.D.) practises to IT Master-2 students.
-Use Jenkins for included workshop, and request to use an alternative (hosted) CI for the exam (Gitlab CI, TravisCI, Github Action, Bitbucket Pipeline, CircleCI, etc.).
-====
-
-### Course: Introduction to Docker Containers
-
-* icon:calendar[] `10/2017` (Promotion 2017/2018)
-** link:https://dduportal.github.io/cours/cnam-docker-2017/[icon:slideshare[] Slides,window="_blank"]
-
-* icon:calendar[] `10/2016` (Promotion 2016/2017)
-** link:https://dduportal.github.io/cours/cnam-docker-2018/[icon:slideshare[] Slides,window="_blank"]
-
-* icon:users[] link:http://www.cnam.fr/[Conservatoire National des Arts et Métiers (C.N.A.M.),window="_blank"]
-
-[NOTE]
-.Description
-====
-Introduction to Docker and Containers to Master-2 or equivalent student, whom are taking studies after working a few years (3 hours night course).
-====
-
-### Course: Architecture of Geographical Information Systems
-
-* icon:calendar[] `12/2015` (Promotion 2015/2016)
-** link:https://dduportal.github.io/ensg-ci-cd/2018-2019/#/introduction_au_ci_cd[icon:slideshare[] Slides,window="_blank"]
-
-* icon:calendar[] `12/2014` (Promotion 2014/2015)
-** link:https://dduportal.github.io/ensg-ci-cd/cicd-ensg-2017-dec/[icon:slideshare[] Slides,window="_blank"]
-
-* icon:users[] link:http://www.ensg.eu/[École Nationale des Sciences Géographiques (E.N.S.G.),window="_blank"]
-
-[NOTE]
-.Description
-====
-Teaching GIS basics to Master-2 students for a 50-hours grade. Covering basics of High Availability, Data management, System architectures.
-Practical session around Geoserver to understand fault tolerance.
-====
-
-### Course: Introduction to Highly Available Architectures
-
-* icon:calendar[] `09/2014` (Promotion Grenoble 2014/2015)
-
-* icon:calendar[] `03/2014` (Promotion Lyon 2013/2014)
-
-* link:https://dduportal.github.io/cours/epsi-ha-2014/[icon:slideshare[] Slides,window="_blank"]
-
-* icon:users[] link:http://www.epsi.fr/[École Professionnelle des Sciences Informatique (E.P.S.I.),window="_blank"]
-
-[NOTE]
-.Description
-====
-Teaching basic concepts of High Availability to Master-1 students during a 20-hours grade, to 3 different groups.
-Practical sessions around basic fault tolerance patterns.
-====
-
-## icon:bullhorn[] Speaker Experiences
-
-### Conferences
-
-#### Devoxx France (Paris) 2019
-
-* image:fr.png[width=15] `Le seigneur des conteneurs : un atelier de migration vers Kubernetes et Traefik`
-
-* icon:slideshare[] link:https://containous.github.io/slides/devoxx-fr-2019/[Slides,window="_blank"]
-  | icon:info-circle[] link:https://cfp.devoxx.fr/2019/talk/YMY-8034/Le_seigneur_des_conteneurs:_un_atelier_de_migration_vers_Kubernetes_et_Traefik[Session Information,window="_blank"]
-  | icon:code[] link:https://github.com/containous/slides/tree/devoxx-fr-2019[Source,window="_blank"]
-
-#### Voxxed Luxembourg 2019
-
-* image:fr.png[width=15] `Edge Routing et HTTPS pour tous: Traefik en pratique`
-
-* icon:slideshare[] link:https://containous.github.io/slides/voxxed-lux-2019[Slides,window="_blank"]
-  | icon:youtube[] link:https://www.youtube.com/watch?v=Da7bWh1CfxA[Session Recording,window="_blank"]
-  | icon:code[] link:https://github.com/containous/slides/tree/voxxed-lux-2019[Source,window="_blank"]
-
-#### DevOpsPro Vilnius 2019
-
-* image:uk.png[width=15] `"This Website is Not Secured". You Had One Job: Configuring the Edge Proxy!`
-
-* icon:slideshare[] link:https://containous.github.io/slides/devopspro-vilnius-2019[Slides,window="_blank"]
-  | icon:info-circle[] link:https://devopspro.lt/2019/damien-duportal/index.html[Session Information,window="_blank"]
-  | icon:code[] link:https://github.com/containous/slides/tree/devopspro-vilnius-2019[Source,window="_blank"]
-
-#### Config Management Camp 2019
-
-* image:uk.png[width=15] `You Had One Job: Configuring the Edge Router`
-
-* icon:slideshare[] link:https://containous.github.io/slides/cfgmgmtcamp-2019[Slides,window="_blank"]
-  | icon:info-circle[] link:https://cfgmgmtcamp.eu/ghent2019/schedule/monday/traefik/[Session Information,window="_blank"]
-  | icon:code[] link:https://github.com/containous/slides/tree/cfgmgmtcamp-2019[Source,window="_blank"]
-
-#### Devoxx Belgium (Antwerpen) 2018
-
-* image:uk.png[width=15] `Traefik: A Scalable and Highly Available Edge Router`
-
-* icon:slideshare[] link:https://containous.github.io/slides/devoxx-be-2018[Slides,window="_blank"]
-  | icon:youtube[] link:https://www.youtube.com/watch?v=AqiGcLsVMeI[Session Recording,window="_blank"]
-  | icon:code[] link:https://github.com/containous/slides/tree/devoxx-be-2018[Source,window="_blank"]
-
-#### Jenkins/DevOpsWorld 2018 EU (Nice)
-
-* image:uk.png[width=15] `10 things we all do, but shouldn’t do with Jenkins`
-
-* icon:slideshare[] link:https://static.sched.com/hosted_files/devopsworldjenkinsworld2018a/d6/JenkinsWorld%20-%20Jenkins%20-%20things%20not%20to%20do.pdf[Slides,window="_blank"]
-  | icon:info-circle[] link:https://devopsworldjenkinsworld2018a.sched.com/event/FIoz/10-things-we-all-do-but-shouldnt-do-with-jenkins[Session Information,window="_blank"]
-
-#### DevConf India (Bengaluru 2018)
-
-* image:uk.png[width=15] `Traefik , The Cloud Native Edge Router`
-
-* icon:info-circle[] link:https://devconfin2018.sched.com/event/FA7c/traefik-the-cloud-native-edge-router[Session Information,window="_blank"]
-
-#### Voxxed Luxembourg 2018
-
-* image:fr.png[width=15] `10 choses (que tout le monde fait) à ne pas faire avec Jenkins`
-
-* icon:youtube[] link:https://www.youtube.com/watch?v=fll_-Hr5adk[Session Recording,window="_blank"]
-
-#### Devoxx France (Paris) 2018
-
-* image:fr.png[width=15] `10 choses (que tout le monde fait) à ne pas faire avec Jenkins`
-
-* icon:slideshare[] link:https://speakerdeck.com/alecharp/jenkins-10-choses-que-tout-le-monde-fait-quil-ne-faut-pas-faire[Slides,window="_blank"]
-  | icon:youtube[] link:https://www.youtube.com/watch?v=_Zcsc15-y2A[Session Recording,window="_blank"]
-
-#### DevDay Mons 2018
-
-* image:fr.png[width=15] `Jenkins, la nouvelle génération`
-
-* icon:youtube[] link:https://www.youtube.com/watch?v=euvrKPttgjY[Session Recording,window="_blank"]
-
-#### Jenkins World US (San Francisco) 2017
-
-* icon:info-circle[] link:https://jenkinsworld20162017.sched.com/damien.duportal[Session Information,window="_blank"]
-
-#### DockerCon EU (Copenhagen) 2017
-
-* image:uk.png[width=15] `Tales of Training: Scaling CodeLabs with Swarm Mode and Docker-Compose`
-
-* icon:youtube[] link:https://dockercon.docker.com/watch/rskvsKK4TvNEzXWKvjZpDX[Session Recording,window="_blank"]
-
-#### GDG Devfest Lille 2017
-
-* image:fr.png[width=15] `Jenkins, BlueOcean and Declarative Pipelines`
-
-* icon:slideshare[] link:http://dduportal.github.io/presentations/devfest-lille-2017/[Slides,window="_blank"]
-
-#### Devoxx France (Paris) 2017
-
-* image:fr.png[width=15] `Bird of Feather - Jenkins`
-
-* icon:info-circle[] link:https://cfp.devoxx.fr/2017/speaker/damien_duportal.html[Session Information,window="_blank"]
-
-#### Mix-IT Lyon 2017
-
-* image:fr.png[width=15] `Jenkins Declarative Pipeline`
-
-* icon:info-circle[] link:https://mixitconf.org/2017/jenkins-moderne-et-livraison-continue-ecrivons-ensemble-des-pipeline-declaratifs-pour-votre-application[Session Information,window="_blank"]
-
-#### SnowCamp IO Grenoble 2017
-
-* image:fr.png[width=15] `Bâtissons ensemble un pipeline avec Jenkins et Docker`
-
-* icon:info-circle[] link:https://snowcamp2017.sched.com/speaker/damien.duportal[Session Information,window="_blank"]
-
-#### Voxxed Days Luxembourg 2016
-
-* image:fr.png[width=15] `Jenkins 2.0 et Pipeline, que se passe t’il ?`
-
-* icon:youtube[] link:https://www.youtube.com/watch?v=kR-2unPD5wA[Session Recording,window="_blank"]
-
-#### DockerCon Barcelona 2015
-
-* image:uk.png[width=15] `Breaking the Docker Rpi Challenge`
-
-* icon:youtube[] link:https://www.youtube.com/watch?v=vXRFHOcMd70[Session Recording,window="_blank"]
-
-#### MixIT Lyon 2015
-
-* image:fr.png[width=15] `Portable Devbox using Docker`
-
-* icon:youtube[] link:https://www.infoq.com/fr/presentations/fabriquez-devbox-portable-docker[Session Recording,window="_blank"]
-
-#### DockerCon Amsterdam 2014
-
-* image:uk.png[width=15] `Docker in a Big company`
-
-* icon:youtube[] link:https://www.youtube.com/watch?v=wZDmtbOjG_4[Session Recording,window="_blank"]
-
-### icon:meetup[] Meetups
-
-* image:uk.png[width=15] Belgium Kubernetes Meetup - Leuven - 2019
-`Traefik v2.0 & Maesh: Look Ma’, routing HTTP and TCP with no Hands!`
-https://www.meetup.com/fr-FR/kubernetes-belgium/events/264700528/[window="_blank"]
-
-* image:uk.png[width=15] DevOps Malmö Meetup - Malmö - 2019
-`Look Ma’, a Dynamic Edge Proxy with HTTP, TCP and no Hands!`
-https://www.meetup.com/fr-FR/DevOpsMalmo/events/263834695/[window="_blank"]
-
-* image:fr.png[width=15] Docker Birthday \#6 (2019): "How do you docker ?" Luxembourg Edition!
-`Smart Routing et HTTPS pour tous : Traefik en action !`
-https://events.docker.com/events/details/docker-luxembourg-presents-docker-birthday-6-how-do-you-docker-luxembourg-edition/#/[window="_blank"]
-
-* image:fr.png[width=15] Docker Meetup Marseille - 2019
-`Smart Routing et HTTPS pour tous : Traefik en action !`
-https://www.meetup.com/fr-FR/Docker-Marseille/events/258666309/[window="_blank"]
-
-* image:fr.png[width=15] Meetup SFEIR Lille - 2019
-`A la découverte de Traefik 2.0`
-https://www.meetup.com/fr-FR/SFEIR-Lille/events/262018005/[window="_blank"]
-
-* image:fr.png[width=15] Meetup GDG Lille - 2019
-`Tests de bout en bout en shell avec “bats”, pour CLI, containers et clusters`
-https://www.meetup.com/fr-FR/GDG-Lille/events/260272230/[window="_blank"]
-
-* image:fr.png[width=15] WaJUG `Jenkins & Blue Ocean Workshop` - Liège - 2018 - http://www.wajug.be/talk/2018/jenkins-blue-ocean-workshop[window="_blank"]
-
-* image:fr.png[width=15] Zenika’s NightClazz `Jenkins & Blue Ocean Workshop` - Lille - 2017 - https://www.meetup.com/fr-FR/NightClazz-Lille-by-Zenika/events/245281912/?eventId=245281912[window="_blank"]
-
-* image:fr.png[width=15] Docker Meetup Lyon `Docker on the CI/CD area` - 2017 - https://www.meetup.com/fr-FR/Docker-Lyon/events/240415824/?eventId=240415824&chapter_analytics_code=UA-48368587-1[window="_blank"]
-
-* image:fr.png[width=15] ChtiJUG Lille `Jenkins 2 & Pipeline` - 2017 - https://www.meetup.com/fr-FR/ChtiJUG/events/236839680/[window="_blank"]
-
-* image:uk.png[width=15] Brussels JUG `Jenkins & Blue Ocean` - 2017 - https://www.meetup.com/fr-FR/Belgium-Jenkins-Area-Meetup/events/239817576/?eventId=239817576[window="_blank"]
-
-* image:fr.png[width=15] Docker Meetup Grenoble `Introduction à Docker Swarm` - 2016 https://www.meetup.com/fr-FR/Docker-Grenoble/events/222375065/?eventId=222375065[window="_blank"]
-
-* image:uk.png[width=15] Docker Meetup Brussels `Collaborative Docker Swarm Workshop on Raspberry Pi` - 2016 http://dduportal.github.io/presentations/docker-meetup-brussels-20160210[window="_blank"]
-
-* image:uk.png[width=15] Online Docker Meetup `Rpi2 challenge status` - 2015 https://www.youtube.com/watch?v=1u2hO6-hV80[window="_blank"]
-
-* image:fr.png[width=15] Docker Meetup Lyon `Docker, Pets vs Cattles` - 2014 http://dduportal.github.io/presentations/docker-meetup-lyon-20140528/[window="_blank"]
-
-### icon:youtube[] Webinars
-
-* image:uk.png[width=15] Traefik Online Webinar - 2019
-`Back to Traefik 2.0 - Gigawatts of Routing Power`
-https://www.youtube.com/watch?v=s8qYWPC6YdI&t=1226
-
-* image:uk.png[width=15] Containous Online Webinar
-`Traefik Enterprise Edition Demo`
-https://www.youtube.com/watch?v=joOuUy1ZD7E
-
-* image:uk.png[width=15] Traefik Online Webinar - 2019
-`Keep the Routing Simple`
-https://www.youtube.com/watch?v=UEB0SFaCpUY
-
-## icon:pencil-square[] Writing Experiences
-
-* icon:book[] Interviewed in the book link:https://www.packtpub.com/web-development/devops-paradox["DevOps Paradox",window="_blank"] by link:https://technologyconversations.com/about/[Viktor Farcic,window="_blank"] about "Empathy for the DevOps Culture".
-
-* icon:pencil[] Blog Post image:uk.png[width=15] link:https://blog.containo.us/traefik-and-docker-a-discussion-with-docker-captain-bret-fisher-7f0b9a54ff88["Traefik and Docker: A Discussion with Docker Captain, Bret Fisher",window="_blank"]
-on link:https://blog.containo.us/[Containous Blog,window="_blank"]
-
-* icon:pencil[] Blog Post image:uk.png[width=15] Co-Author of link:https://blog.containo.us/announcing-maesh-a-lightweight-and-simpler-service-mesh-made-by-the-traefik-team-cb866edc6f29["Announcing Maesh, a Lightweight and Simpler Service Mesh Made by the Traefik Team",window="_blank"] on link:https://blog.containo.us/[Containous Blog,window="_blank"]
-
-* icon:pencil[] Blog Post image:uk.png[width=15] link-:https://d2iq.com/blog/from-zero-to-hero-in-minutes-with-konvoy-s-built-in-traefik-for-kubernetes["From Zero to Hero in minutes with Konvoy’s built-in Traefik for Kubernetes",window="_blank"]
-on link:https://d2iq.com/blog[D2IQ (formerly Mesosphere) Blog,window="_blank"]
-
-* icon:pencil[] Blog Post Serie image:uk.png[width=15] "The Journey to Traefik Enterprise Edition" on link:https://blog.containo.us/[Containous Blog,window="_blank"]:
-** link:https://blog.containo.us/the-journey-to-traefik-enterprise-edition-join-the-free-early-access-program-b73e07d62f30[Part 1 - "Join the Free Early Access Program",window="_blank"]
-** link:https://blog.containo.us/the-journey-to-traefik-enterprise-edition-product-evaluation-4828508cbc8[Part 2 - "Product Evaluation",window="_blank"]
-** link:https://blog.containo.us/the-journey-to-traefik-enterprise-edition-high-availability-7421718be2d8[Part 3 - "High Availability",window="_blank"]
-** link:https://blog.containo.us/the-journey-to-traefik-enterprise-edition-https-for-everyone-90a36b33600[Part 5 - "HTTPS for Everyone",window="_blank"]
-** link:https://blog.containo.us/the-journey-to-traefik-enterprise-edition-smooth-operations-2591bb7ff1fe[Part 6 - "Smooth Operations",window="_blank"]
-
-* icon:pencil[] Blog Post image:uk.png[width=15] link:https://vmblog.com/archive/2019/05/07/the-road-to-a-better-kubernetes-ingress.aspx["The Road to a Better Kubernetes Ingress",window="_blank"]
-on link:https://vmblog.com/home.aspx[VMBlog.com,window="_blank"]
-
-* icon:pencil[] Blog Post image:fr.png[width=15] link:https://www.journaldunet.com/solutions/expert/66182/le-devops---nouveau-levier-technologique-au-service-des-reseaux-sociaux.shtml["Le DevOps : nouveau levier technologique au service des réseaux sociaux",window="_blank"]
-on link:https://www.journaldunet.com/["Le Journal du Net (J.D.N.)",window="_blank"]
-
-## icon:code-fork[] Open Source Projects Experiences
-
-* link:https://asciidoctor.org/contributors/[Contributor,window="_blank"]
-of the link:https://asciidoctor.org/[AsciiDoctor,window="_blank"] project:
-Maintainer of the link:https://github.com/asciidoctor/docker-asciidoctor[AsciiDoctor Docker image,window="_blank"]
-
-* Contributor of the link:https://github.com/containous/traefik[Traefik] project,
-focused on documentation, Docker Image for official Docker Hub (Linux, ARM, Windows)
-and usability.
 
 ## icon:graduation-cap[] Education
 
-### Master Degree of IT Engineering
+### Master of Science in Computer Science and Network
 
-* icon:graduation-cap[] Diplomed in `10/2010`
-* icon:calendar-plus-o[] Started in `09/2005`
-* icon:university[] link:https://www.insa-lyon.fr/[Institut National des Sciences Appliquées (I.N.S.A.) Lyon,window="_blank"]
+* icon:graduation-cap[] Diplomed in `09/2018`
+* icon:calendar-plus-o[] Started in `09/2015`
+* icon:university[] link:https://esipe.u-pem.fr/[ESIPE,window="_blank"]
+
+### Bachelor of Science in Computer Science
+
+* icon:graduation-cap[] Diplomed in `08/2017`
+* icon:calendar-plus-o[] Started in `12/2017`
+* icon:university[] link:https://www.usherbrooke.ca/[University of Sherbrooke,window="_blank"]
+
+
+### Bachelor of Science in Electrical and Industrial Computing
+
+* icon:graduation-cap[] Diplomed in `09/2015`
+* icon:calendar-plus-o[] Started in `09/2011`
+* icon:university[] link:http://www.u-pec.fr//[UPEC,window="_blank"]
+
+## icon:gear[] Skills
+
+#### Programming skills
+
+[NOTE]
+====
+Data Mining, Functional Programming, Object Oriented Programming, Operating System, GUI, Design Pattern, Concurrent programming,
+Open stack, Distributed Computing, Network, Management, REST/SOAP/gRPC/GraphQL
+====
+
+#### Programming Languages
+
+[NOTE]
+====
+Java 13/Android/Spring/Swing, Ruby (Rails), C/++/#, Python, JS/TS, Go, PHP, Assembler, Bash, Racket, HTML5/CSS3
+====
+
+#### CI/CD
+
+[NOTE]
+====
+Jenkins, Maven, Ant, SonarQube, Gitlab, TFS, JUnit, Mockito
+====
+
+#### Database
+
+[NOTE]
+====
+Postgresql, MongoDB, MariaDB, Cassandra, Redis, SQLite, MySQL
+====
+
+#### Network
+
+[NOTE]
+====
+Protocols, LANs/WANs/WLANs, Wireless, Cellular, Cyber security, Routing, Cryptography/Certificate
+====
+
+#### Virtualization
+
+[NOTE]
+====
+Docker compose/swarm, Virtual machine (Virtualbox/VMware), Kubernetes, Rancher Cattle, AWS, S3
+====
+
+#### Web server
+
+[NOTE]
+====
+Nginx, Apache, Tomcat, Vertx, Unicorn
+====
+
+#### Load balancing / Proxy
+
+[NOTE]
+====
+Haproxy, Squid
+====
+
+### Projects
+
+#### Ordogene
+
+* icon:code[] link:https://github.com/ndergal/Ordogene[Source,window="_blank"]
 
 [NOTE]
 .Description
 ====
-* 2 years of common engineering and sciences (Math, Physic, Chemistery, Industrialization, IT, Humanities, Languages, Sports, etc.)
-
-* 3 years of software engineering
+Ordogene is a software that can be used to determine, using a genetic algorithm, the actions of a given process to maximize or minimize some resources in a minimum amount of time. These processes can be very different, such as getting ready in the morning, organizing an event or manufacturing industrial parts.
 ====
 
-### 6 Months Academic Exchange
+#### PapayaDB
 
-* icon:calendar-minus-o[] `12/2009`
-* icon:calendar-plus-o[] `06/2009`
-* icon:map-marker[] Chile image:cl.png[width=15]
-* icon:university[] link:https://www.pucv.cl/[Pontificia Universidad de Valparaíso (P.U.C.V),window="_blank"]
+* icon:code[] link:https://github.com/ndergal/PAPAYADB[Source,window="_blank"]
 
 [NOTE]
 .Description
 ====
-Academic exchange in Chile as part of my master softar engineering diploma,
-studying Software Engineering in Valparaíso University.
+A self-optimized document-oriented database storing a set of value in JSON format.  The project was divided in several parts implanting the database itself (with atomic document insertion), a Web server (REST) ​​to make queries (the queries are themselves JSON documents) and a client API in Java to make requests to the REST server (a request result had to be a Java Stream).  Each module must be separate and independent. It had to be delivered as modular JARs (compatible with Java9 modules).
 ====
-
-## icon:sticky-note[] Skills
-
-### icon:globe[] Languages
-
-* image:fr.png[width=15] French: Native
-
-* image:uk.png[width=15] / image:us.png[width=15] English: Professional usage (5 years in international companies with US English use as only language, public speaking experience, 865 TOEIC)
-
-* image:es.png[width=15] Spanish: Middle level (6 months in Chile, university grade)
-
-### icon:handshake-o[] Methodology
-
-* Test Driven Development
-* Behavior Driven Development
-* Continous Integration / Deployment / Delivery
-* Collaborative Development: Code Review & Pair Programming
-
-### icon:wrench[] Technical
-
-* 🐳 Docker mastery:
-** Docker mentor
-** Public Speaker on DockerCons
-** Contributor
-** Official Image Maintainer for Traefik and Asciidoctor and `dduportal/bats` projects
-** Usage in production since version `0.8` (including Compose, Swarm and registry)
-
-* &#9096; Kubernetes enthusiast: Build and contributed to Helm Charts, Customer cases at Containous with bare metal Kubernetes, public speaking and writing about Kubernetes Ingress and network model.
-
-* icon:code-fork[] SCM daily usage: SVN (2008-2011), Mercurial (2010-2014), Git (2011-today)
-
-* Jenkins mastery
-
-* icon:linux[] Linux/Unix Infrastructure Background
-** Include CentOS, RedHat, Debian, Alpine Linux ... and icon:apple[] macOS Server
-** My first Linux was Yellow Dog Linux (ref. link:https://fr.wikipedia.org/wiki/Yellowdog_Updater,_Modified[`yum`]) on a Macintosh PowerPC
-** Bash enthusiast (with testing with link:https://github.com/dduportal-dockerfiles/bats/[Bats])
-
-* Hashicorp Stack enthusiast:
-** Vagrant contributor
-** Golden Image Infrasturcture Patterns: Using Packer/Terraform since 2012/2014
-
-* A bit of frontend development experience: Grunt and GulpJS, NPM/NodeJS for Asciidoctor
-and HTML slides frameworks.
-
-* Languages experiences: Java, Golang, Bash, Lua, C/C++, Javascript, HTML5/CSS3

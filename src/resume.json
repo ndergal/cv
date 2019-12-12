@@ -1,0 +1,183 @@
+{
+  "basics": {
+    "name": "Nacer Dergal",
+    "email": "dergal:nacer@outlook.fr",
+    "phone": "+33 7 81 25 18 44",
+    "location": {
+      "address": "Quebec, QC"
+    },
+    "website": "https://www.linkedin.com/in/nacer-dergal-a63514162/"
+  },
+  "education": [
+    {
+      "institution": "ESIPE",
+      "location": "Marne-La-Vallée, Seine-et-marne",
+      "studyType": "MS",
+      "startDate": "Sep 2015",
+      "area": "Computer Science and Network",
+      "endDate": "Sep 2018"
+    },
+    {
+      "institution": "University of Sherbrooke",
+      "location": "Sherbrooke,QC",
+      "studyType": "BS",
+      "area": "Computer science",
+      "startDate": "Aug 2017",
+      "endDate": "Dec 2017"
+    },
+    {
+      "institution": "IUT of Lieusaint",
+      "location": "Lieusaint, Seine-et-marne",
+      "studyType": "BS",
+      "area": "Electrical and Industrial Computing",
+      "startDate": "Sep 2011",
+      "endDate": "Sep 2015"
+    }
+  ],
+  "work": [
+    {
+      "location": "Quebec, QC",
+      "position": "Software Developer",
+      "startDate": "Sep 2018",
+      "endDate": "Present",
+      "highlights": [
+        "Embedded software development in C#",
+        "Agile Methodology",
+        "Computer Vision"
+      ],
+      "company": "EXFO"
+    },
+    {
+      "highlights": [
+        "Implementation and administration of a virtualized software forge on Docker",
+        "Automation of project creation",
+        "Implementation of web application",
+        "Website creation",
+        "Deployment of a secured Docker Registry",
+        "Creation of a Restful API from a database describing a road network with its traffic topology"
+      ],
+      "company": "IGN",
+      "position": "System integration/ DevOps engineer co-worker",
+      "location": "Champs-Sur-Marne, Seine-et-marne",
+      "startDate": "Sep 2015",
+      "endDate": "Sep 2018"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming skills",
+      "keywords": [
+        "Data Mining",
+        "Functional Programming",
+        "Object Oriented Programming",
+        "Operating System",
+        "GUI",
+        "Design Pattern ",
+        "Concurrent programming",
+        "Open stack",
+        "Distributed Computing",
+        "Network",
+        "Management",
+        "REST/SOAP/gRPC/GraphQL"
+      ]
+    },
+    {
+      "keywords": [
+        "Java 13/Android/Spring/Swing",
+        "Ruby (Rails)",
+        "C/++/#",
+        "Python",
+        "JS/TS",
+        "Go",
+        "PHP",
+        "Assembler",
+        "Bash",
+        "Racket",
+        "HTML5/CSS3"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "Jenkins",
+        "Maven",
+        "Ant",
+        "SonarQube",
+        "Gitlab",
+        "TFS",
+        "JUnit",
+        "Mockito"
+      ],
+      "name": "CI/CD"
+    },
+    {
+      "keywords": [
+        "Postgresql",
+        "MongoDB",
+        "MariaDB",
+        "Cassandra",
+        "Redis",
+        "SQLite",
+        "MySQL"
+      ],
+      "name": "Database"
+    },
+    {
+      "keywords": [
+        "Services",
+        "Protocols",
+        "LANs/WANs/WLANs",
+        "Wireless",
+        "Cellular",
+        "Cyber security",
+        "Routing",
+        "Cryptography/Certificate"
+      ],
+      "name": "Network"
+    },
+    {
+      "keywords": [
+        "Docker compose/swarm",
+        "Virtual machine (Virtualbox/VMware)",
+        "Kubernetes",
+        "Rancher Cattle",
+        "AWS",
+        "S3"
+      ],
+      "name": "Virtualization"
+    },
+    {
+      "keywords": [
+        "Nginx, Apache, Tomcat, Vertx, Unicorn"
+      ],
+      "name": "Web server"
+    },
+    {
+      "keywords": [
+        "Haproxy"
+      ],
+      "name": "Load balancing"
+    },
+    {
+      "keywords": [
+        "Squid"
+      ],
+      "name": "Proxy"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ordogene",
+      "description": "Ordogene is a software that can be used to determine, using a genetic algorithm, the actions of a given process to maximize or minimize some resources in a minimum amount of time. These processes can be very different, such as getting ready in the morning, organizing an event or manufacturing industrial parts.",
+      "url": "https://github.com/ndergal/Ordogene"
+    },
+    {
+      "keywords": [
+        null
+      ],
+      "name": "PapayaDB",
+      "description": "A self-optimized document-oriented database storing a set of value in JSON format.  The project was divided in several parts implanting the database itself (with atomic document insertion), a Web server (REST) ​​to make queries (the queries are themselves JSON documents) and a client API in Java to make requests to the REST server (a request result had to be a Java Stream).  Each module must be separate and independent. It had to be delivered as modular JARs (compatible with Java9 modules).",
+      "url": "https://github.com/ndergal/PAPAYADB"
+    }
+  ]
+}

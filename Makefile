@@ -2,9 +2,9 @@
 CURRENT_UID = $(shell id -u):$(shell id -g)
 DIST_DIR ?= $(CURDIR)/dist
 REPOSITORY_NAME ?= cv
-REPOSITORY_OWNER ?= dduportal
+REPOSITORY_OWNER ?= ndergal
 REPOSITORY_BASE_URL ?= https://github.com/$(REPOSITORY_OWNER)/$(REPOSITORY_NAME)
-OWNER_NAME ?= "Damien DUPORTAL"
+OWNER_NAME ?= "Nacer DERGAL"
 SHORT_OWNER_NAME ?= $(shell echo "$(OWNER_NAME)" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
 
 ### TRAVIS_BRANCH == TRAVIS_TAG when a build is triggered by a tag as per https://docs.travis-ci.com/user/environment-variables/
@@ -16,9 +16,9 @@ endif
 SOURCE_URL = $(REPOSITORY_BASE_URL)/tree/$(TRAVIS_BRANCH)
 
 ifneq ($(TRAVIS_BRANCH), master)
-CV_URL = https://$(REPOSITORY_OWNER).github.io/$(REPOSITORY_NAME)/$(TRAVIS_BRANCH)
+CV_URL = https://github.com/$(REPOSITORY_OWNER)/$(REPOSITORY_NAME)/$(TRAVIS_BRANCH)
 else
-CV_URL = https://$(REPOSITORY_OWNER).github.io/$(REPOSITORY_NAME)
+CV_URL = https://github.com/$(REPOSITORY_OWNER)/$(REPOSITORY_NAME)
 endif
 
 export CV_URL REPOSITORY_URL REPOSITORY_BASE_URL TRAVIS_BRANCH \
