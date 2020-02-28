@@ -33,10 +33,13 @@ icon:users[] link:https://www.exfo.com[EXFO,window="_blank"] - Onsite at Quebec,
 [NOTE]
 .Description
 ====
-* Embedded software development in C#
-* Agile Methodology
-* Computer Vision
-* Driver development
+* Work in a SCRUM environment
+* Software development in C# on a Linux based embedded system using the Mono Framework
+* Software development in .NET Compact Framework.
+* Conception of a Test API using Graph Theory to be easily able to go through each path/scenario of an application with automated tests.
+* Conception of an Image Recognition framework combined with the Test API to test our GUI.
+* Conception of a driver for an Optical Channel Monitor.
+* Design and conception of an Android-like Notification service in C#. 
 ====
 
 ### System integration/ DevOps engineer co-worker
