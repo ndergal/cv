@@ -47,7 +47,7 @@
         "Conception of a Test API using Graph Theory to be easily able to go through each path/scenario of an application with automated tests.",
         "Conception of an Image Recognition framework combined with the Test API to test our GUI.",
         "Conception of a driver for an Optical Channel Monitor.",
-        "Design and conception of an Android-like Notification service in C#.", 
+        "Design and conception of an Android-like Notification service in C#." 
       ],
       "company": "EXFO"
     },

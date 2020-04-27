@@ -69,8 +69,8 @@ icon:users[] link:http://www.ign.fr/[IGN,window="_blank"] - Onsite at Champs-Sur
 
 ### Bachelor of Science in Computer Science
 
-* icon:graduation-cap[] Diplomed in `08/2017`
-* icon:calendar-plus-o[] Started in `12/2017`
+* icon:graduation-cap[] Diplomed in `12/2017`
+* icon:calendar-plus-o[] Started in `08/2017`
 * icon:university[] link:https://www.usherbrooke.ca/[University of Sherbrooke,window="_blank"]
 
 
