@@ -121,7 +121,7 @@ Java 15/Android/Spring/Swing, C/++/#, Assembler, Bash, JS/TS/Angular, Python, Ru
 
 [NOTE]
 ====
-Arduino, Intelligent Agent programming (Swarming), ZigBee, LR WPAN, Z-Wave, EnOcean, 6LowPan MQTT, Wi-Fi, Bluetooth, RFID, Yocto
+Arduino, Intelligent Agent programming (Swarming), ZigBee, LR WPAN, Z-Wave, EnOcean, 6LowPan, MQTT, Wi-Fi, Bluetooth, RFID, Yocto
 ====
 
 #### CI/CD
