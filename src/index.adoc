@@ -106,7 +106,7 @@ icon:users[] link:http://www.ign.fr/[IGN,window="_blank"] - Onsite at Champs-Sur
 
 [NOTE]
 ====
-Object Oriented Programming, Cloud Computing, Operating System, GUI, Concurrent programming, Distributed Computing,
+Object Oriented Programming, IOT, Embedded System, Cloud Computing, Operating System, GUI, Concurrent programming, Distributed Computing,
 Network, Data Mining, Functional Programming, Management, TDD, Computer Vision, REST/SOAP/gRPC/GraphQL/Layr
 ====
 
@@ -115,6 +115,13 @@ Network, Data Mining, Functional Programming, Management, TDD, Computer Vision, 
 [NOTE]
 ====
 Java 15/Android/Spring/Swing, C/++/#, Assembler, Bash, JS/TS/Angular, Python, Ruby (Rails), Go, Racket
+====
+
+#### Embedded/IOT
+
+[NOTE]
+====
+Arduino, Intelligent Agent programming (Swarming), ZigBee, LR WPAN, Z-Wave, EnOcean, 6LowPan MQTT, Wi-Fi, Bluetooth, RFID, Yocto
 ====
 
 #### CI/CD
@@ -135,7 +142,7 @@ Postgresql,Atlas/MongoDB, MariaDB, Cassandra, Redis, SQLite, MySQL
 
 [NOTE]
 ====
-Protocols, LANs/WANs/WLANs, Wireless, Cellular, Cyber security, Routing, Cryptography/Certificate
+Protocols, LANs/WANs/WLANs/WPAN, Wireless, Cellular, Cyber security, Routing, Cryptography/Certificate
 ====
 
 #### Virtualization/Cloud/IaC
