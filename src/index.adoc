@@ -1,8 +1,8 @@
 # Curriculum Vitae | Nacer DERGAL
 Nacer DERGAL
-v1.0, 2019-12-12
+v1.1, 2021-01-19
 :icons: font
-:email: dergal:nacer@outlook.fr
+:email: dergal.nacer@outlook.fr
 :sectlinks:
 :imagesdir: ./images/
 :data-uri:
@@ -24,9 +24,29 @@ Contact & Social:: link:mailto:{email}[icon:envelope[] E-Mail `{email}`]
 
 ## icon:industry[] Professional Experience
 
+### Cloud Developer / Full Stack Developer
+
+icon:calendar[] From: `02/2020` until `Present`
+
+icon:users[] link:https://www.exfo.com[EXFO,window="_blank"] - Onsite at Quebec, Canada image:ca.png[width=15]
+
+[NOTE]
+.Description
+====
+* Development of front-end web application using Angular
+* Development of cloud native services using AWS, Node.js and Java
+* Automating infrastructure deployments using Azure Pipelines
+* Managing infrastructure as a code (IaC) using Terraform
+* User authentication using Auth0 and IAM
+* Storing data using MongoDB Atlas
+* Working in an agile environment using BDD (Cucumber/Mocha/Karma)
+* Validating services contract using Contract Testing
+* Document services/API using mkdocs
+====
+
 ### Software Developer
 
-icon:calendar[] From: `09/2018` until `Present`
+icon:calendar[] From: `09/2018` until `02/2020`
 
 icon:users[] link:https://www.exfo.com[EXFO,window="_blank"] - Onsite at Quebec, Canada image:ca.png[width=15]
 
@@ -86,29 +106,29 @@ icon:users[] link:http://www.ign.fr/[IGN,window="_blank"] - Onsite at Champs-Sur
 
 [NOTE]
 ====
-Data Mining, Functional Programming, Object Oriented Programming, Operating System, GUI, Design Pattern, Concurrent programming,
-Open stack, Distributed Computing, Network, Management, REST/SOAP/gRPC/GraphQL
+Object Oriented Programming, Cloud Computing, Operating System, GUI, Concurrent programming, Distributed Computing,
+Network, Data Mining, Functional Programming, Management, TDD, Computer Vision, REST/SOAP/gRPC/GraphQL/Layr
 ====
 
 #### Programming Languages
 
 [NOTE]
 ====
-Java 13/Android/Spring/Swing, Ruby (Rails), C/++/#, Python, JS/TS, Go, PHP, Assembler, Bash, Racket, HTML5/CSS3
+Java 15/Android/Spring/Swing, C/++/#, Assembler, Bash, JS/TS/Angular, Python, Ruby (Rails), Go, Racket
 ====
 
 #### CI/CD
 
 [NOTE]
 ====
-Jenkins, Maven, Ant, SonarQube, Gitlab, TFS, JUnit, Mockito
+Jenkins, Azure, Gitlab, TFS, Maven, Ant, Gradle, WhiteSource, SonarQube, JUnit, Mockito, Cucumber, Mocha, Sinon
 ====
 
 #### Database
 
 [NOTE]
 ====
-Postgresql, MongoDB, MariaDB, Cassandra, Redis, SQLite, MySQL
+Postgresql,Atlas/MongoDB, MariaDB, Cassandra, Redis, SQLite, MySQL
 ====
 
 #### Network
@@ -118,11 +138,11 @@ Postgresql, MongoDB, MariaDB, Cassandra, Redis, SQLite, MySQL
 Protocols, LANs/WANs/WLANs, Wireless, Cellular, Cyber security, Routing, Cryptography/Certificate
 ====
 
-#### Virtualization
+#### Virtualization/Cloud/IaC
 
 [NOTE]
 ====
-Docker compose/swarm, Virtual machine (Virtualbox/VMware), Kubernetes, Rancher Cattle, AWS, S3
+Docker compose/swarm, Virtual machine (Virtualbox/VMware), Kubernetes, AWS, Terraform, Serverless
 ====
 
 #### Web server

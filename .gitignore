@@ -5,5 +5,4 @@
 *.zip
 *.gz
 deploy/
-dist/
 tmp/
