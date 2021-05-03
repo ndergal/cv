@@ -62,7 +62,7 @@ icon:users[] link:https://www.exfo.com[EXFO,window="_blank"] - Onsite at Quebec,
 * Design and conception of an Android-like Notification service in C#. 
 ====
 
-### System integration/ DevOps engineer co-worker
+### Software/Cloud Engineer Co-worker
 
 icon:calendar[] From: `09/2015` until `09/2018`
 
@@ -81,7 +81,7 @@ icon:users[] link:http://www.ign.fr/[IGN,window="_blank"] - Onsite at Champs-Sur
 
 ## icon:graduation-cap[] Education
 
-### Master of Science in Computer Science and Network
+### Master of Science in Computer Science and Network (Ing., M. Sc.)
 
 * icon:graduation-cap[] Diplomed in `09/2018`
 * icon:calendar-plus-o[] Started in `09/2015`
