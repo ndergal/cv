@@ -24,7 +24,7 @@ Contact & Social:: link:mailto:{email}[icon:envelope[] E-Mail `{email}`]
 
 ## icon:industry[] Professional Experience
 
-### Cloud Developer / Full Stack Developer
+### Cloud / Microservices Developer 
 
 icon:calendar[] From: `02/2020` until `Present`
 
@@ -33,15 +33,14 @@ icon:users[] link:https://www.exfo.com[EXFO,window="_blank"] - Onsite at Quebec,
 [NOTE]
 .Description
 ====
-* Development of front-end web application using Angular
-* Development of cloud native services using AWS, Node.js and Java
-* Automating infrastructure deployments using Azure Pipelines
-* Managing infrastructure as a code (IaC) using Terraform
-* User authentication using Auth0 and IAM
+* Development of cloud native services using AWS, Google Cloud, Node.js, Java and Python
+* Automating infrastructure deployments using Azure Pipelines and Gitlab
+* Managing infrastructure as a code (IaC) using Terraform/Serverless/Pulumi
+* User authentication using Auth0, IAM or Google Cloud Identity Platform
 * Storing data using MongoDB Atlas
-* Working in an agile environment using BDD (Cucumber/Mocha/Karma)
+* Working in an agile environment using BDD
 * Validating services contract using Contract Testing
-* Document services/API using mkdocs
+* Document services/API using mkdocs or FastAPI
 ====
 
 ### Software Developer
@@ -149,14 +148,14 @@ Protocols, LANs/WANs/WLANs/WPAN, Wireless, Cellular, Cyber security, Routing, Cr
 
 [NOTE]
 ====
-Docker compose/swarm, Virtual machine (Virtualbox/VMware), Kubernetes, AWS, Terraform, Serverless
+Docker compose/swarm, Virtual machine (Virtualbox/VMware), Kubernetes, AWS, Google Cloud Platform, Terraform, Pulumi, Serverless
 ====
 
 #### Web server
 
 [NOTE]
 ====
-Nginx, Apache, Tomcat, Vertx, Unicorn
+Nginx, Apache, Tomcat, Vertx, Unicorn, Fastapi
 ====
 
 #### Load balancing / Proxy
